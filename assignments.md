@@ -11,7 +11,7 @@ permalink: /assignments/
 Short Papers (x3) |  30% |
 Final Project | 35% |
 Participation | 15% |
-Weekly Readings, Assignments and Coding Exercises | 20% |
+Weekly Readings, Discussion Questions, and Coding Exercises | 20% |
 
 
 ### Short Papers 30%
@@ -21,10 +21,10 @@ I'll ask that you write three 2-3-page (double-spaced) reflection papers. These 
 ### Final Project 35%
 
 
-Working in **pairs**, you will complete a final project centered around a cultural dataset of your choosing (I will provide some starting points). This final project is designed to give you the opportunity to practice your skills in designing and planning an exploratory analysis of a cultural dataset that draws on course readings and theoretical questions around data and your your practical skills in data collection and analysis.
+Working in **pairs or trios**, you will complete a final project centered around a cultural dataset of your choosing (I will provide some starting points). This final project is designed to give you the opportunity to practice your skills in designing and planning an exploratory analysis of a cultural dataset that draws on course readings and theoretical questions around data and your your practical skills in data collection and analysis.
 
 -  You will be graded 15% based on a [jointly written project proposal](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-proposal-assignment.md)
-- 10% will come from  percent based on your presentation of your project
+- 10% will come from your presentation of your project
 - 10 % will come from a 4-5 page an individual paper that you write reflecting on your project.
 
 ### In-Class Participation 15%
@@ -32,11 +32,16 @@ Working in **pairs**, you will complete a final project centered around a cultur
 See the [Course Policies](https://sceckert.github.io/Data-and-Culture-Fall-2024/policies) for a description of what active participation looks like.
 
 
-### Weekly Readings, Assignments and Coding Exercises 20% 
+### Weekly Readings, Discussion Questions, and Coding Exercises 20% 
 
-Over the course of the semester, you will have two main weekly responsibilities: 1) you will complete weekly reading discussion questions and **post them to Canvas** (Tuesdays), and 2) you will complete weekly homework and **email** them to me (by noon on Wednesdays before class). Homework  will vary depending on the week––some week will be more focused on programming, others on written reflection. 
+Over the course of the semester, you will have two main weekly responsibilities: 
 
-Your short weekly discussion question should be posted to that week's Canvas Discussion board by Tuesday at 9am before class. These should be short posts designed to get at key concepts or arguments from the readings. I'll ask that you post 1-3 short questions about the reading(s) to our Canvas Discussion Board. These will be graded pass/fail.
++ 1) you will complete weekly reading discussion questions and **post them to our class reading log (GoogleDoc)** (by Monday morning), 
++ and 2) you will complete weekly homework and **email** them to me (by noon on Wednesdays before class). Homework  will vary depending on the week––some week will be more focused on programming, others on written reflection. 
+
+Your short weekly discussion question should be posted to that week’s section of the class reading log by Monday at noon before class. These should be short posts designed to get at key concepts or arguments from the readings. I'll ask that you post 1-3 short questions about the reading(s). 
+
+Your weekly homework should be submitted via email. These will be graded pass/fail.
 
 #### TIPS: How to Read & How to Craft Discussion Questions:
 
