@@ -35,7 +35,7 @@ Literary Study (1927) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php
 #### Wed 9/11 - Language as Code, Code as Language
 
 - Read: Paul Ford, ["What Is Code?" parts 1 & 2 (2015)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) [REMINDER: only read parts 1 and 2!]
-- Read: Gertrude tein, "Matisse" (1912) and "Picasso" (1912) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732081/mod_resource/content/0/stein-matisse-and-picasso.pdf)
+- Read: Gertrude Stein, "Matisse" (1912) and "Picasso" (1912) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732081/mod_resource/content/0/stein-matisse-and-picasso.pdf)
 - Due: [Homework 2]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/homework-2.md)-->
 - *In-class practicum*: [Introduction to the command line]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/introduction-to-the-command-line.md) -->
 
@@ -115,6 +115,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 ## Week 7: Collecting Cultural Data
 
 #### Mon 10/14 - Libraries, Databases, Archives, and Sources
+​CLASS MEETS IN SPECIAL COLLECTIONS & ARCHIVES (Olin Library)
 
 - Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)
 - Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James  Hemings” (2013) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732373/mod_resource/content/0/Klein-The-Image-of-Absence.pdf)
