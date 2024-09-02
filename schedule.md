@@ -106,7 +106,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
 - Read: One review from [Reviews in Digital Humanities.](https://reviewsindh.pubpub.org/)
-- Project Critique: Choose one of the projects on the project list to begin exploring for your [DH project critique](https://sceckert.github.io/Data-and-Culture-Fall-2024/assignments/)
+- Project Critique: Choose one of the projects on the project list to begin exploring for your [DH project critique](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)
 	<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk5-tues.md)-->
 - Due: Homework 5
 
