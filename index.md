@@ -12,7 +12,7 @@ layout: home
 
 <h3 style="text-align: center">  Fall 2024 </h3>
 
-![image](_images/Data-and-Culture-header.png)
+![image](/_images/Data-and-Culture-header.png)
 
 ## Course Logistics
 
