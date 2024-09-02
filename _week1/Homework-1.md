@@ -4,7 +4,7 @@ In his essay, "Data before the Fact," Daniel Rosenberg explores the history of t
 
 There are three short parts to this exercise. 
 
-## I.  "Data" in the *Oxford English Dictionary*
+## I.  "Data" in the *Oxford English Dictionary*  (*OED*)
 
 Look up the term "data" (and the singular, "datum") in the [*Oxford English Dictionary* (OED)](https://www.oed.com/?tl=true). Unlike most dictionaries, the *OED* gives you historical definitions of words in the past (and present) usage.  drawing on records of the words in usage in print. 
 
@@ -12,11 +12,11 @@ Look up the term "data" (and the singular, "datum") in the [*Oxford English Dict
 
 + Type in "data" and "datum" and explore the different historical. What do you notice? What does (and has) "data" meant? When?
 
-+ Take a look at the quotations and other supplementary information that the OED supplies. Try clicking on the grey "..." icon next to each quotation.  Poke around the interface? What do you notice about the kinds of sources? The quotations themselves?  What else can we glean? What *don't* we know?
++ Take a look at the quotations and other supplementary information that the *OED* supplies. Try clicking on the grey "..." icon next to each quotation.  Poke around the interface? What do you notice about the kinds of sources? The quotations themselves?  What else can we glean? What *don't* we know?
 
-### What are we searching when we search the OED?
+### What are we searching when we search the *OED*?
 
-+ Take a look at the [history of the OED](https://www.oed.com/information/about-the-oed/history-of-the-oed/) page and the *Examining the OED* project list of ["top sources"](https://oed.hertford.ox.ac.uk/quotations/outline/top-sources/). What do you notice about the kinds of materials that went into the making of the OED? What implications might I have for the way we use the tool?
++ Take a look at the [history of the OED](https://www.oed.com/information/about-the-oed/history-of-the-oed/) page and the *Examining the OED* project list of ["top sources"](https://oed.hertford.ox.ac.uk/quotations/outline/top-sources/). What do you notice about the kinds of materials that went into the making of the *OED*? What implications might I have for the way we use the tool?
 
 + Finally, write up a few sentences reflection on what you've found. You can use screenshots.
 
@@ -45,9 +45,9 @@ Now let's turn to Google Ngrams!  "**Ngrams**" is a term for one, two, three, et
 8. Finally, write up a few sentence reflecting on what you've found. You can include screenshots of your exploratory research with the Ngram Viewer if that helps. 
 
 
-## III. "Data" in *Eighteenth-Century Collections Online (ECCO)** 
+## III. "Data" in *Eighteenth-Century Collections Online (ECCO)* 
 
-Rosenberg doesn't just use the OED, the Google Ngram Viewer and Google Books. What were some options Rosenberg makes about the limitations of Google Books in thinking about word usage in the eras before the 19th century?
+Rosenberg doesn't just use the *OED*, the Google Ngram Viewer and Google Books. What were some options Rosenberg makes about the limitations of Google Books in thinking about word usage in the eras before the 19th century?
 
-9. Just to get our feet wet, search "data" in [Eighteenth-Century Collections Online (ECCO)] (log in using your Wes ID here: [https://library.princeton.edu/resource/3745](https://library.princeton.edu/resource/3745) What might Rosenberg have to do to this data to make it so that he can make the queries that he makes? (You might look at one more recent project that has done this: the [ECCO TCT transcription project](https://github.com/Early-Modern-OCR/TCP-ECCO-texts))
+9. Just to get our feet wet, search "data" in [*Eighteenth-Century Collections Online (ECCO*](https://go.gale.com/ps/start.do?p=ECCO&u=31841) (you may have to search "ECCO" in the library catalog and log in that way if you're off campus). What might Rosenberg have to do to this data to make it so that he can make the queries that he makes? (You might look at one more recent project that has done this: the [ECCO TCT transcription project](https://github.com/Early-Modern-OCR/TCP-ECCO-texts))
 
