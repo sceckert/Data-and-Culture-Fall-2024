@@ -49,5 +49,7 @@ Now let's turn to Google Ngrams!  "**Ngrams**" is a term for one, two, three, et
 
 Rosenberg doesn't just use the *OED*, the Google Ngram Viewer and Google Books. What were some options Rosenberg makes about the limitations of Google Books in thinking about word usage in the eras before the 19th century?
 
-9. Just to get our feet wet, search "data" in [*Eighteenth-Century Collections Online (ECCO*](https://go.gale.com/ps/start.do?p=ECCO&u=31841) (you may have to search "ECCO" in the library catalog and log in that way if you're off campus). What might Rosenberg have to do to this data to make it so that he can make the queries that he makes? (You might look at one more recent project that has done this: the [ECCO TCT transcription project](https://github.com/Early-Modern-OCR/TCP-ECCO-texts))
+9. Just to get our feet wet, navigate to  [*Eighteenth-Century Collections Online (ECCO*](https://go.gale.com/ps/start.do?p=ECCO&u=31841) (you may have to search "ECCO" in the library catalog and log in that way if you're off campus). Navigate to the ["term frequency"](https://go.gale.com/ps/ngram?tabID=Monographs&lm=&searchResultsType=SingleTab&qt=OQE%7Edata&searchType=BasicSearchForm&currentPosition=&sort=&prodId=ECCO&subjectParam=&searchId=R2&userGroupName=31841&inPS=true&subjectAction=) search and type in "data" and "datum". What do you notice? How does it compare to our results in the Google Ngram Viewer?
+
++ What might Rosenberg have to do to this data to make it so that he can make the queries that he makes? (You might look at one more recent project that has done this: the [ECCO TCT transcription project](https://github.com/Early-Modern-OCR/TCP-ECCO-texts))
 
