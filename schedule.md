@@ -94,7 +94,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Mon 10/7 - Three Ways of Reading Emily Dickinson
 
-- Read: Emily Dickinson, “A Coffin –– is a Small Domain” (1864) and “Faith is a fine invention” (1860)
+- Read: Emily Dickinson, “A Coffin –– is a Small Domain” (1864) and “Faith is a fine invention” (1860) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732493/mod_resource/content/0/Dickinson-poems.pdf)
 - Compare
 	-  Emily Dickinson Archive, [Franklin](https://www.edickinson.org/editions/1/image_sets/12176133) and [Johnson](https://www.edickinson.org/editions/2/image_sets/12171257) editions of “A Coffin –– is a Small Domain
 	-  Amherst’s “A Coffin –– is a Small Domain” [transcription digital facsimile](https://acdc.amherst.edu/view/EmilyDickinson/ma00167-14-49-00622)
