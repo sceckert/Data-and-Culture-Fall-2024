@@ -20,7 +20,7 @@ permalink: /schedule/
 - Read: Edith Rickert, “To Skeptics” and “Introductory: Reasons and Methods,” in New Methods for 
 Literary Study (1927) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732061/mod_resource/content/0/Rickert-To-Skeptics-and-Introductory.pdf)
 - Due: [Homework 1:](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week1/Homework-1.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer, the *Oxford English Dictionary*, and *ECCO* (log in using Wesleyan’s proxy access)
-- *In-class practicum*: [Counting by hand]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week1/in-class-practicum.md)-->
+- *In-class practicum*: [Counting by hand](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week1/in-class-practicum.md)-
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk1-thu.html#/)  -->
 
 ## Week 2: Origins and Histories 
