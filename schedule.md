@@ -36,7 +36,7 @@ Literary Study (1927) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php
 
 - Read: Paul Ford, ["What Is Code?" parts 1 & 2 (2015)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) [REMINDER: only read parts 1 and 2!]
 - Read: Gertrude Stein, "Matisse" (1912) and "Picasso" (1912) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732081/mod_resource/content/0/stein-matisse-and-picasso.pdf)
-- Due: [Homework 2]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/homework-2.md)-->
+- Due: [Homework 2](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/homework-2.md)
 - *In-class practicum*: [Introduction to the command line]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/introduction-to-the-command-line.md) -->
 
 ## Week 3: Classification & Categorization
