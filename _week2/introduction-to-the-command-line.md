@@ -1,5 +1,5 @@
 # Introduction to the Command Line
-Thursday, Sept 15, 2022
+
 
 ## Agenda
 
@@ -55,7 +55,7 @@ Dennis Ritchie (left) and Ken Thompson (right) working on the DEC PDP-11, part o
 In the [*Programming Historian* tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) you learned the following commands:
 
 FOR MACS: 
-- `pwd`:  path of working directory. This is the "tell me what folder I am in right now" 
+- `pwd`:  print of working directory. This is the "tell me what folder I am in right now" 
 - `cd [filepath]`: change directory, move into the folder called "filepath" 
 - `cd ..`: change directory by moving up one level in the folder structure to a parent directory
 - `ls`: list the files and folders in your current directory 
@@ -77,9 +77,9 @@ FOR WINDOWS
 
 
 ---
-Navigate to the webpage with today's [introduction to the command line lesson](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/introduction-to-the-command-line.md)
+Navigate to the webpage with today's [introduction to the command line lesson](https://github.com/sceckert/Data-and-Cultur/blob/main/_week2/introduction-to-the-command-line.md)
 
-Open the [command line cheatsheet](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/command-line-cheat-sheet.md). This cheat sheet is yours to keep, modify, add to, re-use! Copying is encouraged in programming (though it's important to get in the habit of practicing typing the commands yourself to get used to the syntax)
+Open the [command line cheatsheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/command-line-cheat-sheet.md). This cheat sheet is yours to keep, modify, add to, re-use! Copying is a part of learning the syntax of programming (though it's important to get in the habit of practicing typing the commands yourself to get used to the syntax)
 
 ### Creating text files and directories
 
@@ -102,7 +102,7 @@ echo """
 Hello! 
 Hi!
 Hey!
-Greetings, Intro DH!
+Greetings, Data + Culture!
 """ > greetings.txt
 ````
 8. `cat greetings.txt` our file to check inside
@@ -120,7 +120,7 @@ echo """
 Hello, again! 
 Hi, again!
 Hey, again!
-Greetings (again) Intro DH!
+Greetings (again) Data + Culture!
 """ >> greetings.txt
 ````
 10. Check your file again with `cat greetings.txt`  What do we notice?
@@ -166,15 +166,17 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 **`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern
 
-1. Type `grep "Intro DH" greetings.txt`
-2. Type `grep "Intro DH" -n greetings.txt`
+1. Type `grep "Data + Culture" greetings.txt`
+2. Type `grep "Data + Culture" -n greetings.txt`
 	- The `-n` flag is one of many flags we can use to soup up our search. Here, this outputs the corresponding line numbers
-2. Now try `grep "Intro DH" -B 1 -A 1 -n --color greetings.txt`
+2. Now try `grep "Data + Culture" -B 1 -A 1 -n --color greetings.txt`
 	- What just happened?
 	- The `-B`  and `-A` flags will give the number of lines before (-B) or after (-A). Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). The `--color` flag highlighted our search term or search phrase.
 
-What if we wanted to search for more than one term?
+What if we wanted to SEARCH FOR and COUNT the number of times a particular word or phrase appears in a text file?
 
+
+** `grep "some term" -o filename.txts | wc -l` allows us to see exactly how many instances  (the flag -o prints ONLY the matches, while the pipe sends the output to the command "")
 
 We can separate a list of key search terms like this:
 
@@ -190,17 +192,16 @@ We can separate a list of key search terms like this:
 
 **`gc [filename] | Select-String -Pattern "search term"`**: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
 
-1. Type `gc  greetings.txt | Select-String -Pattern "Intro DH"`
-2. Type `gc  greetings.txt | Select-String -Pattern "Intro DH" -AllMatches` 
+1. Type `gc  greetings.txt | Select-String -Pattern "Data + Culture"`
+2. Type `gc  greetings.txt | Select-String -Pattern "Data + Culture" -AllMatches` 
 	- The `-AllMatches` flag is one of many flags we can use to soup up our search. This makes sure that we catch any instances where our search term appears twice on a line
-2. Now try `gc  greetings.txt | Select-String -Pattern "Intro DH" -Context 1,1` 
+2. Now try `gc  greetings.txt | Select-String -Pattern "Data + Culture" -Context 1,1` 
 	- What just happened?
 	- The `-Context [number, number]` flag will give the number of lines before and after the line with the search term. Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). 
 
-What if we wanted to search for more than one term?
+What if we wanted to SEARCH FOR and COUNT the number of times a particular word or phrase appears in a text file?
 
-
-
+`gc [filename ]| (Select-String -Pattern "some word" -AllMatches).Matches.Count` allows us to count how many times a particular word or phrase (here, the phrase "some word") appears.
 
 We can separate a list of key search terms like this:
 
@@ -251,4 +252,4 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 ## In-Class Exercises
 
-Open the [in-class exercises](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/in-class-exercises.md) and work through them with your partner.
+Open the [in-class exercises](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/in-class-exercises.md) and work through them with your partner.
