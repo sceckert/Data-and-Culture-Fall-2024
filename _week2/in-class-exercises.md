@@ -16,7 +16,7 @@ For each other exercises below, **record the command that you input.**
 
 - Open [the command line cheat sheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/command-line-cheat-sheet.md)
 - Make a directory called "my_texts"
-- In a we browser, navigate to our [week]https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2). I've created two text files of the "Matisse" and "Picasso" pieces, with each sentence on a new line. First, click on and open "stein-matisse.txt." Click on the button in the upper right hand corner that says "RAW". Then, right click and save the page into the directory you just created. Do the same thing for "stein-picasso.txt"
+- In a web-browser, navigate to [the files for this week](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2). I've created two text files of the "Matisse" and "Picasso" pieces, with each sentence on a new line. First, click on and open "stein-matisse.txt." Click on the button in the upper right hand corner that says "RAW". Then, right click and save the page into the directory you just created. Do the same thing for "stein-picasso.txt"
 - In the terminal, navigate to the directory where you saved the two text files. Verify that you have both the text files there. 
 - Using the commands we've learned, figure out the number of words in each text. Which one is longer?
 - Try to look at just the first 5 lines and the last five lines of "stein-matisse.txt." Repeat for "stein-picasso.txt."
