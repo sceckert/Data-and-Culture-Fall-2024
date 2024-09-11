@@ -21,7 +21,7 @@ For each other exercises below, **record the command that you input.**
 - Using the commands we've learned, figure out the number of words in each text. Which one is longer?
 - Try to look at just the first 5 lines and the last five lines of "stein-matisse.txt." Repeat for "stein-picasso.txt."
 - Then, search for and count all instances of the word "some" in "stein-matisse.txt."
-- Then, search for all instances of the word "some", in "stein-matisse.txt.**ignoring case**. 
+- Then, search for all instances of the word "some", in "stein-matisse.txt" **ignoring case**. 
 - Do the same thing as above for the words "something", "expressing", and "working."
 - Repeat the search for "some", "something", "working" and expressing for "stein-picasso.txt"
 - What did you notice? 
