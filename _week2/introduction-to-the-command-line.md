@@ -77,7 +77,7 @@ FOR WINDOWS
 
 
 ---
-Navigate to the webpage with today's [introduction to the command line lesson](https://github.com/sceckert/Data-and-Cultur/blob/main/_week2/introduction-to-the-command-line.md)
+Navigate to the webpage with today's [introduction to the command line lesson](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/introduction-to-the-command-line.md)
 
 Open the [command line cheatsheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/command-line-cheat-sheet.md). This cheat sheet is yours to keep, modify, add to, re-use! Copying is a part of learning the syntax of programming (though it's important to get in the habit of practicing typing the commands yourself to get used to the syntax)
 
