@@ -55,7 +55,7 @@ Dennis Ritchie (left) and Ken Thompson (right) working on the DEC PDP-11, part o
 In the [*Programming Historian* tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) you learned the following commands:
 
 FOR MACS: 
-- `pwd`:  print of working directory. This is the "tell me what folder I am in right now" 
+- `pwd`:  print working directory. This is the "tell me what folder I am in right now" 
 - `cd [filepath]`: change directory, move into the folder called "filepath" 
 - `cd ..`: change directory by moving up one level in the folder structure to a parent directory
 - `ls`: list the files and folders in your current directory 
