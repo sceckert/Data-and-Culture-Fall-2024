@@ -23,7 +23,7 @@ For each other exercises below, **record the command that you input.**
 - Then, search for and count all instances of the word "some" in "stein-matisse.txt."
 - Then, search for all instances of the word "some", in "stein-matisse.txt" **ignoring case**. 
 - Do the same thing as above for the words "something", "expressing", and "working."
-- Repeat the search for "some", "something", "working" and expressing for "stein-picasso.txt"
+- Repeat the search for "some", "something", "expressing" and "working" for "stein-picasso.txt"
 - What did you notice? 
 - Try searching for other words or patterns. Talk about your findings. What was it like to read in this way?
 
