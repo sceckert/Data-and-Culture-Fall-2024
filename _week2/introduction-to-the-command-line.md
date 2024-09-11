@@ -85,7 +85,7 @@ Open the [command line cheatsheet](https://github.com/sceckert/Data-and-Culture-
 
 1. Open up your terminal
 2. Use `pwd` to tell us where we are
-3. Use `mkdir workspace` to create a directory (a folder) called  "workspace", and then use `mkdir ../practice` to make a directory called "practice" inside of "workspace" [*NOTE: if you are using Windows, your slash will point the other way!*]  
+3. Use `mkdir workspace` to create a directory (a folder) called  "workspace", and then `mkdir workspace/practice` to make a directory called "practice" inside of "workspace" [*NOTE: if you are using Windows, your slash will point the other way!*]  
 Your directory structure should look like:
 ```
 --workspace
@@ -93,9 +93,9 @@ Your directory structure should look like:
 ```
 4. `cd` into the directory called "practice" [**What should we type?**]
 5. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace:
-` touch ../an_empty_file.txt` 
-[*NOTE: if you are using Windows, your command should be ni ..\an_empty_file.txt. The command `ni` is used instead of `touch` and the slash will point the other way!*]
-6. `cd`  back into "workspace." 
+` touch an_empty_file.txt` 
+[*NOTE: if you are using Windows, your command should be ni an_empty_file.txt. The command `ni` is used instead of `touch` !*]
+6. `cd ..`  to move back into "workspace." 
 7. Use `echo` and `>` to create a text file: 
 ``` 
 echo """
