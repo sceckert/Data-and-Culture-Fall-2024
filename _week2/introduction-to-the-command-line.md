@@ -141,7 +141,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 #### Count words, lines, and characters (For Macs) 
 
- **`wc`** is a command that allows you to count words and lines in a text file. It can be used with flags.
+ **`wc`** is a command that allows you to count words and lines in a text file. It can be used with flags. (`wc` is short for "word count", though it can be used to count lines and characters, too.)
 
 1. Use  `wc -w greetings.txt` to count the number of words in `greetings.txt`.
 	-  In the statement above, `wc` is our verb, while the flag `-w` is our adverb and `greetings.txt`  is the object
@@ -151,7 +151,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 ####  Count words, lines, and characters (For Windows)
 
-**`gc [filename] | Measure-Object`** uses the command **`gc`** with the command **`Measure-Object`** allows you to count words and lines in a text file  (We'll explain that `|` in a minute!)
+**`gc [filename] | Measure-Object`** uses the command **`gc`** (short for "get content") with the command **`Measure-Object`** allows you to count words and lines  in a text file  (We'll explain that `|` in a minute!)
 
 1. Use `gc greetings.txt | Measure-Object -Word` to count the number of words in `greetings.txt`
 2. Now use the `-Line` flag with the command above count the number of lines in `greetings.txt`
@@ -164,7 +164,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 #### Searching inside a text file (For Macs) 
 
 
-**`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern
+**`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern. (`grep` is short for "global regular expression search and print")
 
 1. Type `grep "Data + Culture" greetings.txt`
 2. Type `grep "Data + Culture" -n greetings.txt`
