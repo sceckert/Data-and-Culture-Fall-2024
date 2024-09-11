@@ -14,18 +14,18 @@ For each other exercises below, **record the command that you input.**
 
 ## Exercise 1: Words as Things in Gertrude Stein's "Matisse" and "Picasso"
 
-- Open [the command line cheat sheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/command-line-cheat-sheet.md)
-- Make a directory called "my_texts"
-- In a web-browser, navigate to [the files for this week](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2). I've created two text files of the "Matisse" and "Picasso" pieces, with each sentence on a new line. First, click on and open "stein-matisse.txt." Click on the button in the upper right hand corner that says "RAW". Then, right click and save the page into the directory you just created. Do the same thing for "stein-picasso.txt"
-- In the terminal, navigate to the directory where you saved the two text files. Verify that you have both the text files there. 
-- Using the commands we've learned, figure out the number of words in each text. Which one is longer?
-- Try to look at just the first 5 lines and the last five lines of "stein-matisse.txt." Repeat for "stein-picasso.txt."
-- Then, search for and count all instances of the word "some" in "stein-matisse.txt."
-- Then, search for all instances of the word "some", in "stein-matisse.txt" **ignoring case**. 
-- Do the same thing as above for the words "something", "expressing", and "working."
-- Repeat the search for "some", "something", "expressing" and "working" for "stein-picasso.txt"
-- What did you notice? 
-- Try searching for other words or patterns. Talk about your findings. What was it like to read in this way?
+1. Open [the command line cheat sheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2/command-line-cheat-sheet.md)
+2. Using the terminal, make a directory called "my_texts" (Make sure you know where you've made this directory!)
+3.  In a web-browser, navigate to [the files for this week](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week2). I've created two text files of the "Matisse" and "Picasso" pieces, with each sentence formatted to be on a new line. First, click on and open "stein-matisse.txt." Click on the button in the upper right hand corner that says "RAW". Then, right click and save the page into the directory you just created. Do the same thing for "stein-picasso.txt"
+4. In the terminal, navigate to the directory where you saved the two text files. Verify that you have both the text files there. 
+5. Using the command's we've learned, show all the contents "stein-matisse.txt." Compare this sentence-by-sentence view to reading on the page––what stands out to you? Repeat for "stein-picasso.txt."
+6.  Using the commands we've learned, figure out the number of words in each text. Which one is longer?
+7. Then, search for and count all instances of the word "some" in "stein-matisse.txt."
+8. Then, search for all instances of the word "some", in "stein-matisse.txt" **ignoring case**. 
+9.  Do the same thing as above for the words "something", "expressing", and "working."
+10. Repeat the search for "some", "something", "expressing" and "working" for "stein-picasso.txt"
+11. What did you notice? 
+12. Try searching for other words or patterns. Talk about your findings. What was it like to read in this way?
 
 ---
 >✨***HINT***✨:
