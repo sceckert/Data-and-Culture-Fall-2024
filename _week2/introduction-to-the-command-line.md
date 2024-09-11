@@ -59,13 +59,13 @@ FOR MACS:
 - `cd [filepath]`: change directory, move into the folder called "filepath" 
 - `cd ..`: change directory by moving up one level in the folder structure to a parent directory
 - `ls`: list the files and folders in your current directory 
-- `mkdir [directoryname]`: make a director called "directory-name"
+- `mkdir [directoryname]`: make a directory called "directory-name"
 - `man [commandname]`: manual. This is the help function. Type man command and it will tell you what that command does
 - `cp [original-filename] [copied-filename]`: copy file
 - `rm [filename]`: remove file:
 - `mv [original-filename] [new-filename]`: move or rename a file or folder
 - `cat [filename]`: show all the contents of a file, eg cat filename
-- `head[filename]`: shows you the first 10 lines. Can be used with a flag and a number to show the first however many lines (eg `head -50 [filename]` to show the first 50 lines)
+- `head [filename]`: shows you the first 10 lines. Can be used with a flag and a number to show the first however many lines (eg `head -50 [filename]` to show the first 50 lines)
 - `tail`: shows you the last 10 lines. Can be used with a flag and a number to show the last however many lines (eg `tail -50 [filename]`)
 
 
@@ -105,7 +105,7 @@ Hey!
 Greetings, Data + Culture!
 """ > greetings.txt
 ````
-8. `cat greetings.txt` our file to check inside
+8. `cat greetings.txt` our file to check inside [*NOTE: if you are using Windows, your command should be `gc` instead of cat*]
 
 > ***TIPS & TRICKS Interlude***
 > 
@@ -212,7 +212,14 @@ We can separate a list of key search terms like this:
 
 ### Pipes (`|`),  Wildcards (`*`), and Redirects (`>`)
 
-The command `|` is a pipe. It  takes the **output** of one command and passes it on as the input of another. It can be used to string together a series of commands.
+The command `|` is a **pipe**. It  takes the **output** of one command and passes it on as the input of another. It can be used to string together a series of commands.
+
+We've already seen the **redirect** (`>`) and **append** (`>>`) characters. 
+
+- The redirect command `>` takes the output of a command and puts it in a file. It an be used in conjunction with other commands, like `echo`, to take an input and write it to file. Eg `echo "Here is some text" > filename.txt` will create a new file called "filename" containing the enclosed phrase, or **overwrite** an existing file.
+- The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
+
+Pipes, redirects, and appends are a key part of UNIX's content-indecent, modular structure: you can take the OUTPUT of one command and make it the INPUT of another command. Input and output are separate and modular.
 
 #### For Macs:
 
@@ -222,10 +229,6 @@ The character **`*`** is a wildcard. It tells the program to search for all file
 
 2. Try `grep "Hello" *` 
 
-We've already seen the redirect (`>`) and append (`>>`) characters. 
-
-- The redirect command `>` takes the output of a command and puts it in a file. It an be used in conjunction with other commands, like `echo`, to take an input and write it to file. Eg `echo "Here is some text" > filename.txt` will create a new file called "filename" containing the enclosed phrase, or **overwrite** an existing file.
-- The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
 
 ---
 
@@ -237,10 +240,7 @@ The character **`*`** is a wildcard. It tells the program to search for all file
 
 2. Try `gc .\*.txt  | Select-String -Pattern "Hello" | Measure-Object -Word`
 
-We've already seen the redirect (`>`) and append (`>>`) characters. 
 
-- The redirect command `>` takes the output of a command and puts it in a file. It an be used in conjunction with other commands, like `echo`, to take an input and write it to file. Eg `echo "Here is some text" > filename.txt` will create a new file called "filename" containing the enclosed phrase, or **overwrite** an existing file.
-- The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
 
 ---
 ---
