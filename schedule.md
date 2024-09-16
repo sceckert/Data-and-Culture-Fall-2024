@@ -53,7 +53,7 @@ Literary Study (1927) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php
 - Read: Karl W. Broman and Kara H. Woo, “Data Organization in Spreadsheets,” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732087/mod_resource/content/0/Broman-and-Woo-Data%20Organization%20in%20Spreadsheets.pdf)
 - Skim: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). -- (Note: this is a long manual: Choose one standard to read about.
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data) and datasets from our [course's curated list of datasets](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md)
-- Due: [Homework 3]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week3/homework-3.md)-->
+- Due: [Homework 3](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week3/homework-3.md)
 - *In-class practicum*: [Introduction to metadata + Python]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week3/introduction-to-metadata.ipynb)-->
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk3-thu.html)-->
 
