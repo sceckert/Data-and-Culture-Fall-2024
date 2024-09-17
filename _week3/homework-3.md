@@ -75,7 +75,7 @@ We are going to be working with plain text files. While you can certainly use de
 	- If you're having trouble, try rewatching the video in Melanie Walsh's "How to Use JupyterNotebooks"
 6. Finally, right click on the "my-first-notebook.ipynb" file and click "Download." You should now have a copy of your file in your Downloads folder as well. Attach this notebook to the email when you send in your Homework 3.
 
-[image](../_images/screenshot-download-notebook.png)
+![image](../_images/screenshot-download-notebook.png)
 
 
 <a name="myfootnote1">1</a>:  Why Python? One reason is that it's flexible and popular within humanities research. Its popularity means that you're likely to find collaborators familiar with the tool, and, unlike some other slightly more boutique tools or programming language, Python has a dedicated community of users and developers, which helps to ensure that Python will be around in a few years. No tool or programming language or platform is perfect––this will be a running question we'll exploring in this course-– but it does help to pick a tool or a method to learn that will be around for the loner term and that will grow with you. Take a look at ["Which DH Tools Are Actually Used in Research?"](https://weltliteratur.net/dh-tools-used-in-research/) (Dec. 6, 2019), a study by Laure Barbot, Frank Fischer, Yoann Moranville and Ivan Pozdniakov, which looks at tools mentioned in the DH conferences, ADHO between 2015-2019
