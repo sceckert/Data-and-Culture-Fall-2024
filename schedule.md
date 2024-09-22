@@ -65,6 +65,7 @@ Literary Study (1927) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php
 Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732365/mod_resource/content/0/DIgnazio-and-Klein-What-Gest-Counted.pdf) 
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk4-tues.html#/)-->
 	- Mimi Onuoha's ["On Missing Data Sets" (2015)](https://github.com/MimiOnuoha/missing-datasets)
+- Explore: One dataset from our [list of course datasets](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md) in preparation for the "dataset biography"
 
 #### Wed 9/25 - "Rehumanizing"" Data
 
