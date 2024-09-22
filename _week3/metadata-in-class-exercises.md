@@ -37,7 +37,7 @@ As you work, think about the following:
 
 Look back at the [US inaugural addresses dataset](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/US_Inaugural_Addresses.zip?raw=true) that we worked with for Homework 3. Right now all of these text files are unstructured plain text. 
 
-Create a plan for how you might turn these addresses into either structured (eg a spreadsheet with fields) or semi-structured data (eg a series of text files with tags, like TEI) with fields or tags that you might use  & how you might use them.
+Create a plan for how you might turn these addresses into either structured (eg a spreadsheet with fields) or semi-structured data (eg a series of text files with tags, like [TEI](https://www.teibyexample.org/exist/examples/TBED01v00.htm)) with fields or tags that you might use  & how you might use them.
 
 
 Draft your notes here: https://docs.google.com/document/d/1aUOkWH9mKfhwwHU7ysVijEiJsYSBDe6NiNNdtfxgR7Q/edit?usp=sharing
