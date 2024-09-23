@@ -70,8 +70,8 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Wed 9/25 - "Rehumanizing"" Data
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
-- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)] -->
-- Due: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/homework-4.ipynb)]-->
+- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python.ipynb)   <!--[[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)] -->
+- Due: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) <!-- [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/homework-4.ipynb)]
 - *In-class practicum*:  [Introduction to Python, continued]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python-continued.ipynb)] -->
 	<!-- -  [In-class slides](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) -->
 
