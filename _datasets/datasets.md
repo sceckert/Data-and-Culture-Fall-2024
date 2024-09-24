@@ -8,8 +8,6 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 
 ### Literature
 +  Author archives:
-	+  
-	+  ["ClaudeMcKay,"](https://github.com/amardeepmsingh/ClaudeMcKay/blob/8e7df637f845ddb8c658e45ef6c9fe8e26ac138e/claude-mckay-constab-ballads-light-tei.xml)
 	+  [George Eliot Archive](https://georgeeliotarchive.org)
 	+ [Rossetti Archive](http://www.rossettiarchive.org/) 
 	+ [“Shakespeare Census.”](https://shakespearecensus.org/)
@@ -22,6 +20,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
     - [African American Periodical Poetry](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html)
     -  [La Gaceta](https://github.com/UMiamiLibraries/collections-as-data) - Cuban 19th century newspaper
     -  ["‘To Be Continued...’: Australian Newspaper Fiction Database.”](https://cdhrdatasys.anu.edu.au/anfd/web/index.php?r=trove/search)
+    -  A dataset of [reprinted work in British Newspapers, 1800-1837](https://github.com/mhbeals/georgianreprints/tree/v1.0.0)
+	    -  Dataset of [reprints only](https://zenodo.org/records/200399#.XpoIwVNKjVo)
 -  [“19th Century American Children’s Book Trade Directory"](https://repository.upenn.edu/mead/28) American Antiquarian Society.The Magazine of Early American Datasets (MEAD).
 -  [“Broadside Ballads Online.”](http://ballads.bodleian.ox.ac.uk/)
 -  [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
@@ -32,10 +32,13 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 -  Documenting the American South (DocSouth). [“First-Person Narratives Collection.”](https://docsouth.unc.edu/fpn/)
 -  Documenting the American South (DocSouth) [“Library of Southern Literature.”](https://docsouth.unc.edu/southlit/)
 -  Documenting the American South (DocSouth) [“North American Slave Narratives.”](https://docsouth.unc.edu/neh/) 
-- [END: A collection of metadata for 2,000 novels published between 1660 and 1850](https://github.com/earlynovels/) created as a part of the [Early Novels Database (END)](https://earlynovels.github.io/) 
+- [Eighteenth-Century Novels Database (END): A collection of metadata for 2,000 novels published between 1660 and 1850](https://github.com/earlynovels/) created as a part of the [Early Novels Database (END)](https://earlynovels.github.io/) 
 	- Full [dataset](https://github.com/earlynovels/end-dataset)
 	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts
+- [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
+- An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
+	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
 - A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak. 
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 - A text corpus of [African-American Literature (1853-1923)](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923), created by Amardeep Singh. 
@@ -68,6 +71,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 
 
 ### History
+- A dataset of  197,000 trials held at the Old Bailey in London between 1673-1913]. Data obtained from [Old Bailey Online](https://www.oldbaileyonline.org/)
+	- Dataset [here](https://www.oldbaileyonline.org/about/data#toc1) 
 - [A dataset of U.S. Inaugural Addresses](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#u-s-inaugural-addresses)
 -  [A dataset of Nobel Laureates 1901-2017](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#nobel-prize-winners)
 - A collection of [tales about the Virgin Mary in Ethiopia, Eritrea, and Egypt from 1300 - the present](https://zenodo.org/record/6909569) 
