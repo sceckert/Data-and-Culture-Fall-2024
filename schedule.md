@@ -65,13 +65,13 @@ Literary Study (1927) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php
 Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732365/mod_resource/content/0/DIgnazio-and-Klein-What-Gest-Counted.pdf) 
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk4-tues.html#/)-->
 	- Mimi Onuoha's ["On Missing Data Sets" (2015)](https://github.com/MimiOnuoha/missing-datasets)
-- Explore: One dataset from our [list of course datasets](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md) in preparation for the "dataset biography"
+- Explore: One dataset from our [list of course datasets](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md) in preparation for the "[dataset biography](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/data-biography-assignment.md)"
 
 #### Wed 9/25 - "Rehumanizing"" Data
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
-- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python.ipynb)   <!--[[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)] -->
-- Due: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) <!-- [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/homework-4.ipynb)]
+- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://colab.research.google.com/drive/10UxKAhEKQxPAtlGpeYNXEoElYb8TGFU_)
+- Due: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://colab.research.google.com/drive/1sUuygQudvqi2Vk_fv6z7iQ1hSgkg-1sh)]
 - *In-class practicum*:  [Introduction to Python, continued]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python-continued.ipynb)] -->
 	<!-- -  [In-class slides](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) -->
 
