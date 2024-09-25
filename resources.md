@@ -45,6 +45,6 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 	- 5. Conditionals and Comparisons
 	- 6. Lists and Loops
 - More practice with Python: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://colab.research.google.com/drive/1sUuygQudvqi2Vk_fv6z7iQ1hSgkg-1sh)]
-- [Introduction to Python Basics, continued](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://drive.google.com/file/d/1JxyiF0vYBSnLKUGdxeheSLykl1J4ancA/view?usp=sharing)]
+- [Introduction to Python Basics, continued](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://colab.research.google.com/drive/1EXYG-92TitDG3Cw5cc42qXddUgSBl7v5?usp=sharing)]
 	- Recap of Python Bascis
 	- Manipulate, clean, and sort lists
