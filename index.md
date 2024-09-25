@@ -28,6 +28,8 @@ Office Hours: Tuesdays  2:00PM-4:00PM (and by appointment) in 285 Court, #211
 
 Course Website: [https://sceckert.github.io/Data-and-Culture-Fall-2024/](https://sceckert.github.io/Data-and-Culture-Fall-2024/)
 
+Course GitHub file repository: https://github.com/sceckert/Data-and-Culture-Fall-2024
+
 ## Course Description
 
 What does the mass digitization of the print cultural record mean for the making and study of literature, art, and culture?  This course introduces students to the critical and cultural study of data by introducing key debates around the meaning of data in the humanities. Like “slow food”––a movement where diners, farmers, and chefs rethink what and how we produce and consume––we will explore data as local, embedded, and requiring careful critical reflection. How can computational tools help us to understand art and literature? What do digital archives reveal (or obscure) about the people who make them? What kinds of writing have, historically, been seen as “uncreative” or automatable and what might this reveal about ideas of labor, gender, race, class, and computation? We will explore the foundations of this field while also discussing concerns that emerge when accessing and maintaining digital cultural artifacts in time and across global and local contexts.
