@@ -28,7 +28,7 @@ Office Hours: Tuesdays  2:00PM-4:00PM (and by appointment) in 285 Court, #211
 
 Course Website: [https://sceckert.github.io/Data-and-Culture-Fall-2024/](https://sceckert.github.io/Data-and-Culture-Fall-2024/)
 
-Course GitHub file repository: https://github.com/sceckert/Data-and-Culture-Fall-2024
+Course GitHub file repository: [https://github.com/sceckert/Data-and-Culture-Fall-2024](https://github.com/sceckert/Data-and-Culture-Fall-2024)
 
 ## Course Description
 
