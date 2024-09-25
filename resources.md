@@ -36,7 +36,7 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 
 ### Python
 
-- [Introduction to Python l](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)]
+- [Introduction to Python l](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://colab.research.google.com/drive/10UxKAhEKQxPAtlGpeYNXEoElYb8TGFU_)]
 	-  Python and Jupyter Notebook Tips
 	- 1. Anatomy of a Python Script]
 	- 2. Variables
@@ -44,7 +44,7 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 	- 4. String Methods
 	- 5. Conditionals and Comparisons
 	- 6. Lists and Loops
-- More practice with Python: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/homework-4.ipynb)]
-- [Introduction to Python Basics, continued](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week4/introduction-to-python-continued.ipynb)]
+- More practice with Python: [Homework 4](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://colab.research.google.com/drive/1sUuygQudvqi2Vk_fv6z7iQ1hSgkg-1sh)]
+- [Introduction to Python Basics, continued](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://drive.google.com/file/d/1JxyiF0vYBSnLKUGdxeheSLykl1J4ancA/view?usp=sharing)]
 	- Recap of Python Bascis
 	- Manipulate, clean, and sort lists
