@@ -63,7 +63,7 @@ If you'd like to use a different dataset than the one listed, feel free to do, j
 -  A 2-3 page (double-spaced) reflection paper that concisely
 	-   introduces your dataset and the details what the dataset is, where it came from, where it lives, who collected it, who owns it, how it was collected, why was it collected, when it was collected
 	-   a short discussion of how these details might impact the kinds of questions we can responsibly ask of our dataset.
- 	- For examples of what a very thorough data biography looks like, check out the data essays created by dataset compilers submitting to the [Responsible Datasets in Context repository](), for instance, the [data essay portion](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.pdf) of the African American Periodical Poetry dataset overview, or the [data essay portion for the US National Park Visit Data](https://www.responsible-datasets-in-context.com/posts/np-data/index.pdf).
+ 	- For examples of what a very thorough data biography looks like, check out the data essays created by dataset compilers submitting to the [Responsible Datasets in Context repository](https://www.responsible-datasets-in-context.com), for instance, the [data essay portion](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.pdf) of the African American Periodical Poetry dataset overview, or the [data essay portion for the US National Park Visit Data](https://www.responsible-datasets-in-context.com/posts/np-data/index.pdf).
 - Your accompanying spreadsheet (if you used one as part of the process)
 
 Please name your file [LastName-Data-Biography], and please remember to email it!
