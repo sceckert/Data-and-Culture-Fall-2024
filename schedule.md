@@ -81,7 +81,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 - Read  Edgar Allan Poe, [“The Raven,” in The Lewisburg Chronicle and the West Branch Farmer](https://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/)(1849)
 - Read: Ryan Cordell, “‘Q i-jtb the Raven’: Taking Dirty OCR Seriously” (2017) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732369/mod_resource/content/0/Cordell-Q%20i-jtb%20the%20Raven%20Taking%20Dirty%20OCR%20Seriously.pdf)
-
+- In class: [Mapping "The Raven" reprintings](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/in-class-exercise.md)
 	
 
 #### Wed 10/2 - Fantasies of a Universal Language

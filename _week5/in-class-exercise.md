@@ -9,9 +9,11 @@ I've assembled a rough dataset for us of Poe reprintings, drawing on:
 
 This Poe dataset can be found here: [https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv](https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv).
 
-If you'd like, you can right click and save the CSV file. Open up the file using VSCode or a simple text editor. Copy it
+Take a look at the dataset: what do we notice?
 
-Then, navigate to the tool for creating exploratory maps and visualizing simple datasets, Palladio. Palladio is a tool developed by the Stanford Center for Humanitis + Design. 
+If you'd like, you can right click and save the CSV file. Open up the file using VSCode or a simple text editor. 
+
+Then, navigate to the tool for creating exploratory maps and visualizing simple datasets, [Palladio](https://hdlab.stanford.edu/palladio-app/). Palladio is a tool developed by the Stanford Center for Humanities + Design. 
 
 Navigate to the following: https://hdlab.stanford.edu/palladio-app/#/upload
 
