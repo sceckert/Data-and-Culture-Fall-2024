@@ -21,12 +21,12 @@ Either paste the link to the [Poe dataset] (`https://raw.githubusercontent.com/s
 
 Then click "Load".
 
-Then click "Map" and then "New Layer" in the right hand menu.
+You should see a little pane with all your datafields. Give your project a title. Then in the upper menu, click "Map" and then "New Layer" in the right hand menu.
 
-In Places, select "Coordinates". Check the box to size points by number of counts. Then click Add layer.
+In Places, select "Coordinates" (This is drawing on a field of loose coordinates for the place locations of various re-printings). Check the box to size points by number of counts. Then click Add layer.
 
 On the very bottom of the screen, click the "Timeline" button.
 
-Try dragging and selecting different parts of the timeline.
+Try dragging and selecting different parts of the timeline. Try hovering over points (and maybe consulting the original datasource for the information)
 
-What patterns do we notice?
+Talk with your partner: What patterns do we notice?
