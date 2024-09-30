@@ -4,7 +4,7 @@
 I've assembled a rough dataset for us of Poe reprintings, drawing on:
 
 + the [Johns Hopkins Exhibition catalog description](https://exhibits.library.jhu.edu/exhibits/show/enigmatic-edgar/master-of-variety/the-raven) for the Oc. 4, 2016-Feb 5, 2017 exhibition of Poe materials from their Susan Jaffe Tane collection
-+ The Baltimore Poe Society's bibliography of editions, impressions and reprintings of the raven: [https://www.eapoe.org/works/info/pp073.htm](https://www.eapoe.org/works/info/pp073.htm)
++ The Baltimore Poe Society's bibliography of editions, impressions and reprintings of "The Raven": [https://www.eapoe.org/works/info/pp073.htm](https://www.eapoe.org/works/info/pp073.htm)
 + Additional searches in Chronicling America for matching lines.
 
 This Poe dataset can be found here: [https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv](https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv).
