@@ -7,12 +7,13 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 ## Specific Topics
 
 ### Literature
-+  Author archives:
++  Author archives and author-specific corpora:
 	+  [George Eliot Archive](https://georgeeliotarchive.org)
 	+ [Rossetti Archive](http://www.rossettiarchive.org/) 
 	+ [“Shakespeare Census.”](https://shakespearecensus.org/)
 	+ [Shelley-Godwin Archive](https://github.com/umd-mith/sga)
 	+ [Walt Whitman Archive](https://whitmanarchive.org/)
+	+ Early [reprintings of Edgar Allan Poe's "The Raven" (1845)](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/in-class-exercise.md)
 - Periodicals, magazines, and newspapers:
     - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
@@ -98,7 +99,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 -  [A collection of metadata about comics in North America](https://github.com/ktopham/comics-as-data) in Michigan State University Library Comics Art Collection
 -  [Graphic Narrative Corpus (GNC)](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php).
 -  ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
--   an archive of Donald Trump's Tweets
+
 
 ### Art History
 

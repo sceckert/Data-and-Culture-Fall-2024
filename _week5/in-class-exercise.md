@@ -1,15 +1,15 @@
 # "The Raven" goes viral: mapping reprinting with Palladio
 
 
-I've assembled a rough dataset for us of Poe reprintings, drawing on:
+I've assembled a [rough dataset for us of early reprintings of Edgar Allan Poe's "The Raven."](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/poe-the-raven-reprintings.csv) This dataset isn't exhaustive, but it's intended as a starting point. It draws on:
 
 + the [Johns Hopkins Exhibition catalog description](https://exhibits.library.jhu.edu/exhibits/show/enigmatic-edgar/master-of-variety/the-raven) for the Oc. 4, 2016-Feb 5, 2017 exhibition of Poe materials from their Susan Jaffe Tane collection
 + The Baltimore Poe Society's bibliography of editions, impressions and reprintings of "The Raven": [https://www.eapoe.org/works/info/pp073.htm](https://www.eapoe.org/works/info/pp073.htm)
-+ Additional searches in Chronicling America for matching lines.
++ Additional searches I performed in *[Chronicling America](https://chroniclingamerica.loc.gov/)* for matching lines.
 
-This Poe dataset can be found here: [https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv](https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv).
+This Poe dataset can be found [here](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/poe-the-raven-reprintings.csv) and in downloadable form [here](https://raw.githubusercontent.com/sceckert/Data-and-Culture-Fall-2024/refs/heads/main/_week5/poe-the-raven-reprintings.csv).
 
-Take a look at the dataset: what do we notice?
+First, take a quick look at the dataset: what do we notice?
 
 If you'd like, you can right click and save the CSV file. Open up the file using VSCode or a simple text editor. 
 
