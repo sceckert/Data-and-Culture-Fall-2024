@@ -39,7 +39,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
-- A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak. 
+- A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
+- A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 - A text corpus of [African-American Literature (1853-1923)](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923), created by Amardeep Singh. 
 - A collection of [Colonial South Asian literature, (1850-1923)](https://github.com/amardeepmsingh/Colonial-South-Asian-Literature), created by Amardeep Singh. 
