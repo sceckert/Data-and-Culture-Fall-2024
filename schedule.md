@@ -89,7 +89,8 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Read: Scott Weingart, [“The Route of a Text Message” (2019)](https://www.vice.com/en/article/kzdn8n/the-route-of-a-text-message-a-love-story)
 - Read: Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name" (2015)](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
 - Due: [**Data Biography**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/data-biography-assignment.md)
-- *In-class practicum*: [Working with data in Python, continued]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/python-continued.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week5/python-continued.ipynb)] -->
+- *In-class practicum*: [Working with data in Python, continued](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/python-continued.ipynb) [[interactive cloud version](https://colab.research.google.com/drive/1yw7Bp8MKK12KtAbqb6KaRwOUu3Xvzbhg?usp=sharing)]
+
 
 ## Week 6: Representing Data
 
