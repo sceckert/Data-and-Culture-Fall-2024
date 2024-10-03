@@ -104,13 +104,12 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 	-  Versioning Machine:[ seven versions of “Faith is a fine invention”](http://v-machine.org/samples/faith.xml)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-tues.html)-->
 
-#### Wed 10/9 - What is a DH Project? Using Data
+#### Wed 10/9 - What is a Humanities Data Project?
 
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
-- Read: One review from [Reviews in Digital Humanities.](https://reviewsindh.pubpub.org/)
-- Project Critique: Choose one of the projects on the project list to begin exploring for your [DH project critique](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)
+- Find and explore: Choose **one** of the projects in the [list](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#possible-humanities-data-projects-to-review) to begin exploring in advance of your [Humanities Data Project Critique](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)
 	<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk5-tues.md)-->
-- Due: Homework 5
+- Due: [Homework 5](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/homework-5.md)
 
 
 
@@ -127,9 +126,9 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Wed 10/16 - Memory Work & the Digital Cultural Record
 
-- Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732377/mod_resource/content/0/Risam-Introduction-The-Postcolonial-Digital-Record.pdf)
 - Read: Jill Lepore, "The Cobweb" (2015) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732375/mod_resource/content/0/Lepore-The-Cobweb-Can-the-Internet-Be-Archived.pdf)
-- Due: [**DH Project Critique**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md) 
+- Optional: Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732377/mod_resource/content/0/Risam-Introduction-The-Postcolonial-Digital-Record.pdf)
+- Due: [**Humanities Data Project Critique**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md) 
 -  *In-class practicum*:  [Exploratory data analysis]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)] --> + Writing a project proposal 
 	
 ## Week 8: Text as Data

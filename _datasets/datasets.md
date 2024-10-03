@@ -99,7 +99,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - [A dataset of 50 years of Billboard Hot 100 pop music lyrics](https://github.com/walkerkq/musiclyrics), created by data scientist Kaylin Walker
 -  [A collection of metadata about comics in North America](https://github.com/ktopham/comics-as-data) in Michigan State University Library Comics Art Collection
 -  [Graphic Narrative Corpus (GNC)](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php).
--  ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
+:quit;x-  ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 
 
 ### Art History
