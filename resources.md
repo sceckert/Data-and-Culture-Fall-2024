@@ -48,3 +48,6 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 - [Introduction to Python Basics, continued](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://colab.research.google.com/drive/1EXYG-92TitDG3Cw5cc42qXddUgSBl7v5?usp=sharing)]
 	- Recap of Python Bascis
 	- Manipulate, clean, and sort lists
+- [Introduction to Pandas: Using Python to read & explore tabular data](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/python-continued.ipynb) [[interactive version]](https://colab.research.google.com/drive/1yw7Bp8MKK12KtAbqb6KaRwOUu3Xvzbhg?usp=sharing)
+	- [Pandas Cheat Sheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/python-pandas-cheat-sheet.md)
+- [Advanced Pandas Tips](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/advanced-pandas.md)
