@@ -48,7 +48,8 @@ Note: some of these operations will only be able to run on certain data types (l
 |df['column_name']`.min()` | gives the minimum value in the column |
 |df['column_name']`.max()` |gives the maximum value in the column|
 |df['column_name']`.mode()`| gives the mode of the column |
-|df['column_name'].`std()`| gives the "unbiased standard deviation" - a statistical term for the estimated dispersion of values| 
+|df['column_name'].`std()`| gives the "unbiased standard deviation" - a statistical term for the estimated dispersion of values |
+|df`.info())` | calculates the summary statistics for the shape of the dataframe and datatypes | 
 |df`.describe(include='all')` | calculates the summary statistics for all columns of the dataframe|
 |df`.groupby('column_name')` | allows us to group data and perform calculations on the groups.|
 
