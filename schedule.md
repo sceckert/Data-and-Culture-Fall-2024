@@ -98,7 +98,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 - Read: Emily Dickinson, “A Coffin –– is a Small Domain” (1864) and “Faith is a fine invention” (1860) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732493/mod_resource/content/0/Dickinson-poems.pdf)
 - Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)
-	- Choose and read **one** of the short responses to Folsom: Peter Stallybrass's "Against Thinking," (https://libkey.io/libraries/305/articles/43584012/full-text-file), Jerome McGann "Database, Interface, and Archival Fever"(https://libkey.io/libraries/305/articles/419119589/full-text-file), Meredith McGill's "Remediating Whitman"(https://libkey.io/libraries/305/articles/419119594/full-text-file?utm_source=api_144), or Jonathan Freedman's "Whitman, Database, Information Culture" (https://libkey.io/libraries/305/articles/419119656/full-text-file?utm_source=api_144)
+	- Choose and read **one** of the short responses to Folsom: Peter Stallybrass's ["Against Thinking,"](https://libkey.io/libraries/305/articles/43584012/full-text-file), Jerome McGann's ["Database, Interface, and Archival Fever"](https://libkey.io/libraries/305/articles/419119589/full-text-file), Meredith McGill's ["Remediating Whitman"](https://libkey.io/libraries/305/articles/419119594/full-text-file?utm_source=api_144), or Jonathan Freedman's ["Whitman, Database, Information Culture"](https://libkey.io/libraries/305/articles/419119656/full-text-file?utm_source=api_144)
 - Compare:
 	-  Emily Dickinson Archive's, [Franklin](https://www.edickinson.org/editions/1/image_sets/12176133) and [Johnson](https://www.edickinson.org/editions/2/image_sets/12171257) editions of “A Coffin –– is a Small Domain
 	-  Amherst Library’s “A Coffin –– is a Small Domain” [transcription digital facsimile](https://acdc.amherst.edu/view/EmilyDickinson/ma00167-14-49-00622)
@@ -110,7 +110,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Wed 10/9 - What is a Humanities Data Project?
 
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
-- Explore: As preparation for your [project critique]((https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)), explore **one project in each of the three categories**–– projects published as [websites](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-websites), as [articles](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-articles), and as [visual essays](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-visaul-essays)–– in the [list of projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#possible-humanities-data-projects-to-review) and come prepared to talk about **at least one** of them and what you found.
+- Explore: As preparation for your [project critique]((https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)), explore **one project in each of the three categories**–– projects published as [websites](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-websites), as [articles](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-articles), and as [visual essays](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-visual-essays)–– in the [list of projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#possible-humanities-data-projects-to-review) and come prepared to talk about **at least one** of them and what you found.
 	<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk5-tues.md)-->
 - Due: [Homework 5](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/homework-5.md)
 
@@ -121,8 +121,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Mon 10/14 - Collections as Data: Libraries, Archives, Collections, and Sources
 ​CLASS MEETS IN SPECIAL COLLECTIONS & ARCHIVES (Olin Library)
 
-<pre><code><del>- Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)</del></code></pre>
-
+- <s>Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)</s>
 - Browse: The [Collections page](https://www.wesleyan.edu/libr/sca/collections/index.html) for Special Collections & Archives
 - Read: The finding aid for the 
 [Nathan Comfort Starr collection of Arthuriana ephemera](https://archives.wesleyan.edu/repositories/ua/resources/nathan_comfort_starr_collection_of_arthuriana_ephe)
