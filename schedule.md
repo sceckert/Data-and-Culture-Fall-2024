@@ -94,20 +94,23 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 ## Week 6: Representing Data
 
-#### Mon 10/7 - Three Ways of Reading Emily Dickinson
+#### Mon 10/7 - Three Ways of Reading Dickinson & Whitman
 
 - Read: Emily Dickinson, “A Coffin –– is a Small Domain” (1864) and “Faith is a fine invention” (1860) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732493/mod_resource/content/0/Dickinson-poems.pdf)
-- Compare
-	-  Emily Dickinson Archive, [Franklin](https://www.edickinson.org/editions/1/image_sets/12176133) and [Johnson](https://www.edickinson.org/editions/2/image_sets/12171257) editions of “A Coffin –– is a Small Domain
-	-  Amherst’s “A Coffin –– is a Small Domain” [transcription digital facsimile](https://acdc.amherst.edu/view/EmilyDickinson/ma00167-14-49-00622)
-	-  TEI By Example’s [Module 7: Critical Editing - Dickinson “Faith is a Fine Invention”](https://teibyexample.org/exist/examples/TBED07v00.htm)
+- Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)
+	- Choose and read **one** of the short responses to Folsom: Peter Stallybrass's "Against Thinking," (https://libkey.io/libraries/305/articles/43584012/full-text-file), Jerome McGann "Database, Interface, and Archival Fever"(https://libkey.io/libraries/305/articles/419119589/full-text-file), Meredith McGill's "Remediating Whitman"(https://libkey.io/libraries/305/articles/419119594/full-text-file?utm_source=api_144), or Jonathan Freedman's "Whitman, Database, Information Culture" (https://libkey.io/libraries/305/articles/419119656/full-text-file?utm_source=api_144)
+- Compare:
+	-  Emily Dickinson Archive's, [Franklin](https://www.edickinson.org/editions/1/image_sets/12176133) and [Johnson](https://www.edickinson.org/editions/2/image_sets/12171257) editions of “A Coffin –– is a Small Domain
+	-  Amherst Library’s “A Coffin –– is a Small Domain” [transcription digital facsimile](https://acdc.amherst.edu/view/EmilyDickinson/ma00167-14-49-00622)
+	-  TEI By Example’s [critical edition of Dickinson “Faith is a Fine Invention”](https://teibyexample.org/exist/examples/TBED07v00.htm)
 	-  Versioning Machine:[ seven versions of “Faith is a fine invention”](http://v-machine.org/samples/faith.xml)
+- Explore: [The Walt Whitman Archive](https://whitmanarchive.org/) and  [Emily Dickinson Archive](https://www.edickinson.org)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-tues.html)-->
 
 #### Wed 10/9 - What is a Humanities Data Project?
 
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
-- Find and explore: Choose **one** of the projects in the [list](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#possible-humanities-data-projects-to-review) to begin exploring in advance of your [Humanities Data Project Critique](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)
+- Explore: As preparation for your [project critique]((https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/)), explore **one project in each of the three categories**–– projects published as [websites](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-websites), as [articles](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-articles), and as [visual essays](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-visaul-essays)–– in the [list of projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#possible-humanities-data-projects-to-review) and come prepared to talk about **at least one** of them and what you found.
 	<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk5-tues.md)-->
 - Due: [Homework 5](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/homework-5.md)
 
@@ -115,19 +118,22 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 ## Week 7: Collecting Cultural Data
 
-#### Mon 10/14 - Libraries, Databases, Archives, and Sources
+#### Mon 10/14 - Collections as Data: Libraries, Archives, Collections, and Sources
 ​CLASS MEETS IN SPECIAL COLLECTIONS & ARCHIVES (Olin Library)
 
-- Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)
-- Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James  Hemings” (2013) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732373/mod_resource/content/0/Klein-The-Image-of-Absence.pdf)
-- - Explore: [The Walt Whitman Archive](https://whitmanarchive.org/)
-- Optional reading Kate Theimer, [“Archives in Context and as Context”](https://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/) (2012) 
+<pre><code><del>- Read: Ed Folsom "Database as Genre: The Epic Transformation of Archives"[Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732543/mod_resource/content/0/Folsom-DatabaseGenreEpic-2007.pdf) (2007)</del></code></pre>
+
+- Browse: The [Collections page](https://www.wesleyan.edu/libr/sca/collections/index.html) for Special Collections & Archives
+- Read: The finding aid for the 
+[Nathan Comfort Starr collection of Arthuriana ephemera](https://archives.wesleyan.edu/repositories/ua/resources/nathan_comfort_starr_collection_of_arthuriana_ephe)
+- *Optional, highly suggested*: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James  Hemings” (2013) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732373/mod_resource/content/0/Klein-The-Image-of-Absence.pdf)
+- *Optional reading:* Kate Theimer, [“Archives in Context and as Context”](https://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/) (2012) 
 	<!--- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk7-tues.html#/) -->
 
 #### Wed 10/16 - Memory Work & the Digital Cultural Record
 
 - Read: Jill Lepore, "The Cobweb" (2015) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732375/mod_resource/content/0/Lepore-The-Cobweb-Can-the-Internet-Be-Archived.pdf)
-- Optional: Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732377/mod_resource/content/0/Risam-Introduction-The-Postcolonial-Digital-Record.pdf)
+- *Optional reading*: Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732377/mod_resource/content/0/Risam-Introduction-The-Postcolonial-Digital-Record.pdf)
 - Due: [**Humanities Data Project Critique**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md) 
 -  *In-class practicum*:  [Exploratory data analysis]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)] --> + Writing a project proposal 
 	
@@ -158,7 +164,6 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 	- Lincoln Mullen, ["Isn't It Obvious?" (2018)](https://lincolnmullen.com/blog/isnt-it-obvious/)
 	- Matthew Lincoln, ["Confabulation in the Humanities"(2015)](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
 	- Scott Weingart ["Argument Clinic" (2017)](https://web.archive.org/web/20210413085718/https://scottbot.net/argument-clinic/)
-- Optional reading: Nick Monfort, "Statistics, Descriptive and Inferential," from *Exploratory Programming for the Arts and Humanities* (2021) [pages 225-239] [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732551/mod_resource/content/0/monfort-exploratory-progtamming-statistics.pdf)
 - Due: [Homework 6]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/homework-6.md)-->
 - *In-class practicum*: [Text analysis]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/introduction-to-git-and-github.md)-->
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk8-thu.html)-->
