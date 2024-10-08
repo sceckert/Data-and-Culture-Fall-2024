@@ -54,6 +54,7 @@ Not all projects contain a website––some present their findings and sources 
 - [The Yellow Wall-Paper Digital Edition](https://yellowwallpaperedition.com/)
 - [America's Public Bible: A Commentary](https://americaspublicbible.org/)
 - [*Frankenstein* Variorum](https://frankensteinvariorum.github.io/viewer/)
+- [*Leaves of Grass* (1855) Variorum](https://whitmanarchive.org/published-writings/leaves-of-grass/1855-variorum/main.html)
 - [Digital Dickens Notes Project](https://www.dickensnotes.com/)
 - [The Winnifread Eaton Archive](https://www.winnifredeatonarchive.org/index.html)
 - [Radio Free Stein](https://radiofreestein.com/)
