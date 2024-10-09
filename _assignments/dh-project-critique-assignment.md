@@ -1,13 +1,14 @@
 #  Humanities Data Project Critique
 
-For this assignment, you're going to write a short project review––or "critique"––of an existing humanities data project. Like the data biography, you'll be thinking about how a project works-–what choices were made in its sources, in processing those sources, in presenting and preserving them.  
+For this assignment, you're going to write a short project review––or "critique"––of an existing humanities data project. Like the data biography, you'll be thinking about how a project works-–what choices were made in its sources, in processing those sources, in presenting and preserving them. Unlike the data biography, which is a descriptive assignment, the project critique should aim to make a focused argument about the project you've chosen to engage with.
 
-Though the word ****"critique"*** (or its adjective form, "critical"), is often used in everyday speech to refer to negative judgments, the kind of critique you'll be writing is closer to the use of the word in the scholarly sense as a careful discussion of a work of scholarship (or art). Your goal in the review shouldn't be to ask whether a project is good or bad (a not-very-interesting question), but to explore how that project works––what choices were made in putting this project together?  What sorts of things result from those choices? What implications might they have? A good review should be able to communicate to a reader not just what a project set out to do, but the **way** that the project does so.
+Though the word ****"critique"*** (or its adjective form, "critical"), is often used in everyday speech to refer to negative judgments, the kind of critique you'll be writing is closer to the use of the word in the scholarly sense as a careful discussion of a work of scholarship (or art). Your goal in the review shouldn't be to ask whether a project is good or bad (a not-very-interesting question), but to make a focused claim how that project works––what choices were made in putting this project together and what sorts of things result from those choices? What implications might they have? A good review should be able to communicate to a reader not just what a project set out to do, but the **way** that the project does so.
 
-What your review should include:
+What your critique should include:
 
 - a brief summary of the humanities data project and its purpose
-- a thoughtful discussion of the project's choices
+- a central thesis claim about a specific aspect (or apsects) of the project
+- a thoughtful discussion of the project's choices that help anchor your claim
 	- You might think (building on Miriam Posner's "How Did They Build That") about
 		- the project's stated or implicit audience 
 		- the project's choice of sources
@@ -16,17 +17,16 @@ What your review should include:
 		- the project's choices in presentation (how the project shares its analysis, sources, or findings)
 		- choices in preservation (how the project preserves its sources)
 		- other choices in the methodology of the project
-		
 - an analysis of the implications of such choices.
+    - Here, again, the goal is not just to describe the project and its choices, but to make analytical claims about how the project works.
 	-  Think about this analysis as a series of questions about the choices
-		- For instance, if a particular project has a counterintuitive interface, what sort of effect does that produce in you the reader/viewer? What effect might the project's team have been trying to produce?
-
+		- For instance, if a particular project has a counterintuitive interface, what sort of effect does that produce in you the reader/viewer? What effect might the project's team have been trying to produce? (Think back to our class's reading of the interfaces, navigational structure, or about pages of the Walt Whitman Archive and Emily Dickinson archive)
 - a discussion of interesting, lingering, or potentially thorny issues that emerge from the project (or the way it was )
 
 
 ## What you'll turn in:
 
-- A 2-3 page (double spaced) review of your project. (Be sure to include any relevant links)
+- A 2-3 page (double spaced) critique of the project you chose project. (Be sure to include citations--footnotes and screenshots can be a relevant way to include links to parts of the project)
 
 ## Possible Humanities Data Projects to Review
 
