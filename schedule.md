@@ -112,7 +112,8 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
 - Explore: As preparation for your [project critique](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md/), explore **one project in each of the three categories**–– projects published as [websites](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-websites), as [articles](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-articles), and as [visual essays](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#projects-published-as-visual-essays)–– in the [list of projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md#possible-humanities-data-projects-to-review) and come prepared to talk about **at least one** of them and what you found.
 	<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk5-tues.md)-->
-- Due: [Homework 5](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/homework-5.md)
+- Due: [Homework 5](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/homework-5.md) [[interactive cloud version of notebook to use](https://colab.research.google.com/drive/1hlVgYDjFaosMPvdTM-TNiMp3NDREVVD1?usp=sharing)]
+
 
 
 
