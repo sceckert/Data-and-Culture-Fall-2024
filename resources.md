@@ -66,7 +66,7 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 	+ If you want to find public dowmainTEXTS to create your own collection of works to analyze:
         + [Project Gutenberg](https://www.gutenberg.org/)
         + [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/)
-        + [HathiTrust](https://www.hathitrust.org/)(Note that there is pane to the left to download the OCR text)
+        + [HathiTrust](https://www.hathitrust.org/) (Note that there is pane to the left to download the OCR text)
         + Browse the various curated collections of texts on our [datasets page](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md)
 + [**Palladio**](http://hdlab.stanford.edu/palladio/): A toolkit for exploring and visualizing tabular historical data that allows you to upload your own CSV file. In it, you can explore your data over time (if you have dates), on a map (if you have longitude and latitude coordinates) sort and filter, or visualize connections in a network (if you have network data).
     + [Getting Started with Palladio tutorial](https://hcommons.org/?get_group_doc=1003007/1552175523-FolgerworkshopnetworksPalladiotutorial.pdf)
