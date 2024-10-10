@@ -14,6 +14,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	+ [Shelley-Godwin Archive](https://github.com/umd-mith/sga)
 	+ [Walt Whitman Archive](https://whitmanarchive.org/)
 	+ Early [reprintings of Edgar Allan Poe's "The Raven" (1845)](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/in-class-exercise.md)
+	+ [Writing About Shakespeare: 1960–2010](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.4)
 - Periodicals, magazines, and newspapers:
     - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
@@ -40,6 +41,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
+- The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88)
 - A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
 - A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
@@ -63,6 +65,11 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - [“At the Circulating Library: A Database of Victorian Fiction, 1837–1901”](https://www.victorianresearch.org/atcl/index.php), see also a snapshot of the [dataset here](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/At-the-Circulating-Library-Dataset)
 - [“Main Street Public Library Database,”](http://cardinalscholar.bsu.edu/handle/123456789/194598)
 - A collection of reader marginalia and objects in library books, collected by the ["Book Traces”](https://booktraces.lib.virginia.edu/) project
+
+### Theatre
+
+- A dataset of [reviews of contemporary London theatre (2010-2020)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.81)
+- A dataset of [London theatrical culture, 1660-1800](https://londonstagedatabase.uoregon.edu/data.php)
 
 ### Film & Television
 
