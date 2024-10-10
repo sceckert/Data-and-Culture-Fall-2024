@@ -9,6 +9,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 ### Literature
 +  Author archives and author-specific corpora:
 	+  [George Eliot Archive](https://georgeeliotarchive.org)
+	+  [Emily Dickinson Archive](https://www.edickinson.org/)
 	+ [Rossetti Archive](http://www.rossettiarchive.org/) 
 	+ [“Shakespeare Census.”](https://shakespearecensus.org/)
 	+ [Shelley-Godwin Archive](https://github.com/umd-mith/sga)
@@ -38,10 +39,13 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	- Full [dataset](https://github.com/earlynovels/end-dataset)
 	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts
 - [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/)
+- [Digital Victorian Periodical Poetry](https://dvpp.uvic.ca/analysis.html)
+- Alan Liu's [1880s British Fiction corpus](http://english197s2015studentwork.pbworks.com/w/page/96659757/Our%20Corpora)
+- A collection of European novels (1771-1932): [TxtLAB450. A Multilingual Data Set of Novels for Teaching and Research](https://txtlab.org/2016/01/txtlab450-a-data-set-of-multilingual-novels-for-teaching-and-research/)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
-- The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88)
+- The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on 
 - A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
 - A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
@@ -55,8 +59,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 -  [“Victorian Serial Novels”](https://archive.org/details/victorianserialnovels?&sort=-week&page=2)
 - [The Victorian Women Writers Project](https://github.com/iulibdcs/Victorian-Women-Writers-Project)
 	- Includes links to a collection of full-texts by 19th-century women writers and a collection of XML-encoded versions of those texts (XML is short for Extensible Markup Language, a markup language for capturing metadata within the file)
-- Alan Liu's [1880s British Fiction corpus](http://english197s2015studentwork.pbworks.com/w/page/96659757/Our%20Corpora)
-- A collection of European novels (1771-1932): [TxtLAB450. A Multilingual Data Set of Novels for Teaching and Research](https://txtlab.org/2016/01/txtlab450-a-data-set-of-multilingual-novels-for-teaching-and-research/)
+
 
 ### Libraries
 
@@ -70,12 +73,18 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 
 - A dataset of [reviews of contemporary London theatre (2010-2020)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.81)
 - A dataset of [London theatrical culture, 1660-1800](https://londonstagedatabase.uoregon.edu/data.php)
+- A dataset of [31 plays from Napoleonic-era Paris](https://github.com/grvsmth/theatredeparis?tab=readme-ov-file#theatredeparis)
 
 ### Film & Television
 
 + A dataset of [dialogue in 2,000 Hollywood films](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#hollywood-film-dialogue-by-character-gender-and-age)
+    + Derived from the [Cornell Movie Dialogues Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 + [Network data about _Game of Thrones _Character relationships](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#game-of-thrones-character-relationships)
 + [Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)
++ A dataset of [racial and ethnic representation in Hollywood films, 1970-2014](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY)
++ A dataset of all the [conversations that occurred over 10 seasons of *Friends*](https://convokit.cornell.edu/documentation/friends.html)
++ [IMBDb datasets](https://developer.imdb.com/non-commercial-datasets/)
++ Netflix's weekly [lists of their top 10 most watched television and films](https://www.netflix.com/tudum/top10) (scroll down to download all lists from 2021- onward)
 
 
 
