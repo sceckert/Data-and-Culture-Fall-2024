@@ -20,7 +20,7 @@ Instructor: Professor Sierra Eckert
 
 Email: seckert@wesleyan.edu
 
-Class Meetings: Monday and Wednesday 8:20-9:40am
+Class Meetings: Monday and Wednesday 1:20-2:40pm
 
 Course Location: Downey 200
  
