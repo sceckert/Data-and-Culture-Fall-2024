@@ -48,7 +48,12 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A dataset of [poetry from Project Gutenberg](https://github.com/aparrish/gutenberg-poetry-corpus/tree/master?tab=readme-ov-file#a-gutenberg-poetry-corpus) 
 - Alan Liu's [1880s British Fiction corpus](http://english197s2015studentwork.pbworks.com/w/page/96659757/Our%20Corpora)
 - A collection of European novels (1771-1932): [TxtLAB450. A Multilingual Data Set of Novels for Teaching and Research](https://txtlab.org/2016/01/txtlab450-a-data-set-of-multilingual-novels-for-teaching-and-research/)
+- A collection of [metadata on Australian novels, 1945-2006](https://datacommons.anu.edu.au/DataCommons/item/anudc:5932) and from [1830-1899](https://datacommons.anu.edu.au/DataCommons/item/anudc:5931)
+- A collection of [Australian national poetry anthologies](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/Australian-National-Poetry-Anthologies-Dataset/contextual-note.md) and [data](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/Australian-National-Poetry-Anthologies-Dataset/australian-national-poetry-anthologies.csv)
+- A [dataset of early Australian children's literature](https://www.austlit.edu.au/austlit/page/5962150)
+- Datasets related to the [Baldwin Collection of Historical Children's Literature](https://ufdc.ufl.edu/collections/juv)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
+- Datasets of [book holdings in the British Library, broken down by genre](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
 - The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on 
@@ -169,5 +174,5 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 
 - [*The Pudding*'s repository of data](https://github.com/the-pudding/data#data-sets) connected to their data journalism stories
 	- A heads up: with *The Pudding*, you'll want to be careful to say something new about the data beyond the original story that the dataset was assembled for. 
--  Jeremy Singer (an independent data journalist) also has running dataset newsletter called *Data is Plural*. You can view the [archive of datasets](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) or browse the newsletter archvie [here](https://www.data-is-plural.com/). 
+-  Jeremy Singer (an independent data journalist) also has running dataset newsletter called *Data is Plural*. You can view the [archive of datasets](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) or browse the newsletter archive [here](https://www.data-is-plural.com/). 
 	- A heads up: unlike the more curated sets of humanities data above, these datasets lists are in varied formats, and come with *varying* levels of contextual detail.
