@@ -52,6 +52,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A collection of [Australian national poetry anthologies](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/Australian-National-Poetry-Anthologies-Dataset/contextual-note.md) and [data](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/Australian-National-Poetry-Anthologies-Dataset/australian-national-poetry-anthologies.csv)
 - A [dataset of early Australian children's literature](https://www.austlit.edu.au/austlit/page/5962150)
 - Datasets related to the [Baldwin Collection of Historical Children's Literature](https://ufdc.ufl.edu/collections/juv)
+- The [317 titles on Project Gutenberg's "Children's Literature" shelf](https://www.gutenberg.org/ebooks/bookshelf/20)
+- A collection of all the volumes in the [Harvard Classics](https://en.wikipedia.org/wiki/Harvard_Classics) series available on [Project Gutenberg](https://www.gutenberg.org/ebooks/bookshelf/40)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - Datasets of [book holdings in the British Library, broken down by genre](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
