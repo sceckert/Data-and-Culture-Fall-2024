@@ -16,18 +16,23 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	+ [Walt Whitman Archive](https://whitmanarchive.org/)
 	+ Early [reprintings of Edgar Allan Poe's "The Raven" (1845)](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/in-class-exercise.md)
 	+ [Writing About Shakespeare: 1960–2010](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.4)
+	+ [The Library of Congress collection of Zora Neale Hurston plays](# Zora Neale Hurston Plays at the Library of Congress)
 - Periodicals, magazines, and newspapers:
     - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
     - [“Periodical Poetry Index.”](https://www.periodicalpoetry.org/index.htm)
     - [African American Periodical Poetry](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html)
     -  [La Gaceta](https://github.com/UMiamiLibraries/collections-as-data) - Cuban 19th century newspaper
+    -  A [dataset of the full run of *The Spiritualist* journal (1869-1882)](https://data.nls.uk/data/digitised-collections/spiritualist-newspapers/)
     -  ["‘To Be Continued...’: Australian Newspaper Fiction Database.”](https://cdhrdatasys.anu.edu.au/anfd/web/index.php?r=trove/search)
     -  A dataset of [reprinted work in British Newspapers, 1800-1837](https://github.com/mhbeals/georgianreprints/tree/v1.0.0)
 	    -  Dataset of [reprints only](https://zenodo.org/records/200399#.XpoIwVNKjVo)
+    - A collection of [newspapers edited by Frederick Douglass, 1847-1874](https://www.loc.gov/collections/frederick-douglass-newspapers/about-this-collection/)
+    - [Australian Women's Weekly issues and front covers, 1933 to 1982](https://glam-workbench.net/trove-newspapers/dataset-aww-covers/)
 -  [“19th Century American Children’s Book Trade Directory"](https://repository.upenn.edu/mead/28) American Antiquarian Society.The Magazine of Early American Datasets (MEAD).
 -  [“Broadside Ballads Online.”](http://ballads.bodleian.ox.ac.uk/)
 -  [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
+-  A dataset of [broadsides printed in Scotland 1650-1910](https://data.nls.uk/data/digitised-collections/broadsides-printed-in-scotland/)
 -  [“The Black Short Story Dataset - Vol. 1.”](https://doi.org/10.18738/T8/5TBANV)
 -  “[History of Black Writing Novel Corpus"](https://textual-optics-lab.uchicago.edu/black_writing_corpus)  | Textual Optics Lab.” 
 -  Adam Hammond and Simon Stern’s [“The Birth of The Modern Detective Story” dataset](https://www.adamhammond.com/bmds/)
@@ -40,6 +45,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts
 - [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/)
 - [Digital Victorian Periodical Poetry](https://dvpp.uvic.ca/analysis.html)
+- A dataset of [poetry from Project Gutenberg](https://github.com/aparrish/gutenberg-poetry-corpus/tree/master?tab=readme-ov-file#a-gutenberg-poetry-corpus) 
 - Alan Liu's [1880s British Fiction corpus](http://english197s2015studentwork.pbworks.com/w/page/96659757/Our%20Corpora)
 - A collection of European novels (1771-1932): [TxtLAB450. A Multilingual Data Set of Novels for Teaching and Research](https://txtlab.org/2016/01/txtlab450-a-data-set-of-multilingual-novels-for-teaching-and-research/)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
@@ -59,6 +65,11 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 -  [“Victorian Serial Novels”](https://archive.org/details/victorianserialnovels?&sort=-week&page=2)
 - [The Victorian Women Writers Project](https://github.com/iulibdcs/Victorian-Women-Writers-Project)
 	- Includes links to a collection of full-texts by 19th-century women writers and a collection of XML-encoded versions of those texts (XML is short for Extensible Markup Language, a markup language for capturing metadata within the file)
+- [The Archive of Recorded Poetry and Literature at the Library of Congress](https://www.loc.gov/collections/archive-of-recorded-poetry-and-literature/about-this-collection/)
+- [St. Mark's Poetry Project Audio Archive](https://www.loc.gov/collections/st-marks-poetry-project-audio-archive/about-this-collection/)
+- [American Life Histories: Manuscripts from the Federal Writers' Project, 1936 to 1940](https://www.loc.gov/collections/federal-writers-project/about-this-collection/)
+- [A collection of author websites acrchived by the Library of Congress](https://www.loc.gov/collections/author-websites-web-archive/about-this-collection/)
+
 
 
 ### Libraries
@@ -74,6 +85,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A dataset of [reviews of contemporary London theatre (2010-2020)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.81)
 - A dataset of [London theatrical culture, 1660-1800](https://londonstagedatabase.uoregon.edu/data.php)
 - A dataset of [31 plays from Napoleonic-era Paris](https://github.com/grvsmth/theatredeparis?tab=readme-ov-file#theatredeparis)
+- A dataset of [theatrical playbills](https://bl.iro.bl.uk/concern/datasets/a8534aff-c8e3-4fc8-adc1-da542080b1e3?locale=en) from England, Ireland, Scotland and Wales (1660 – 1902) held in the British Library; available as [PDFs](https://bl.iro.bl.uk/concern/datasets/a8534aff-c8e3-4fc8-adc1-da542080b1e3?locale=en) and [OCR'd plain text](https://bl.iro.bl.uk/concern/datasets/807f0563-025e-46be-a251-1ad1ba477981?locale=en)
 
 ### Film & Television
 
@@ -85,6 +97,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 + A dataset of all the [conversations that occurred over 10 seasons of *Friends*](https://convokit.cornell.edu/documentation/friends.html)
 + [IMBDb datasets](https://developer.imdb.com/non-commercial-datasets/)
 + Netflix's weekly [lists of their top 10 most watched television and films](https://www.netflix.com/tudum/top10) (scroll down to download all lists from 2021- onward)
++ [America at Work, America at Leisure: Motion Pictures from 1894-1915](https://www.loc.gov/collections/america-at-work-and-leisure-1894-to-1915/about-this-collection/)
 
 
 
@@ -105,17 +118,22 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - [Switching the Lens - Rediscovering Londoners of African, Caribbean, Asian and Indigenous Heritage, 1561 to 1840](https://www.cityoflondon.gov.uk/things-to-do/history-and-heritage/london-metropolitan-archives/about-lma/switching-the-lens-project) project [dataset](https://search.lma.gov.uk/scripts/mwimain.dll?logon&application=UNION_VIEW&language=144&file=[lma]through-the-lens.html&utm_source=col&utm_medium=web&utm_campaign=switching-the-lens) 
 - [U.S. National Park Visit Data (1979-2023)](https://www.responsible-datasets-in-context.com/posts/np-data/)
 -  A dataset of [obituaries published in the _NYTimes_ from 1852-2007](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#the-new-york-times-obituaries)
+-  A dataset of the [first eight editions of the Encyclopedia Britannica](https://data.nls.uk/data/digitised-collections/encyclopaedia-britannica/)
 
 ### Philosophy 
 
 - A collection of [annotations from philosopher Jacques Derrida's library](https://dataspace.princeton.edu/handle/88435/dsp01gf06g579z)
+- A collection of [Hannah Arendt's papers held at the Library of Congress](https://www.loc.gov/collections/hannah-arendt-papers/about-this-collection/)
+- A collection of [Sigmund Freud's papers held at the Library of Congress](https://www.loc.gov/collections/sigmund-freud-papers/about-this-collection/)
 
 ### Pop Culture
 
 - [A dataset of 50 years of Billboard Hot 100 pop music lyrics](https://github.com/walkerkq/musiclyrics), created by data scientist Kaylin Walker
+- [The Free Music Archive dataset](https://github.com/mdeff/fma?tab=readme-ov-file#fma-a-dataset-for-music-analysis) - metadata as well as mp3 files of Creative Commons-licensed music from the [Free Music Archive](https://freemusicarchive.org/home)
 -  [A collection of metadata about comics in North America](https://github.com/ktopham/comics-as-data) in Michigan State University Library Comics Art Collection
 -  [Graphic Narrative Corpus (GNC)](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php).
 -  ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
+-  [A collection of British political and satirical prints and cartoons held in the Library of Congress](https://www.loc.gov/collections/british-cartoon-prints/about-this-collection/)
 
 
 ### Art History
