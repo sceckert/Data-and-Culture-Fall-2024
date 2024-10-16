@@ -135,7 +135,8 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Read: Jill Lepore, "The Cobweb" (2015) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732375/mod_resource/content/0/Lepore-The-Cobweb-Can-the-Internet-Be-Archived.pdf)
 - *Optional reading*: Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732377/mod_resource/content/0/Risam-Introduction-The-Postcolonial-Digital-Record.pdf)
 - Due: [**Humanities Data Project Critique**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/dh-project-critique-assignment.md) 
--  *In-class practicum*:  [Exploratory data analysis]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)] --> + Writing a project proposal 
+-  *In-class practicum*:  [Exploratory data analysis with library and archive data](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/working-with-library-and-archival-data.md) + Brainstorming [final projects](https://docs.google.com/document/d/1Co0Wni6ktOCFIwtMkq5aynPguGVLOkfbUBpAS-YR3_g/edit?usp=sharing)
+-  For reference: [Python notebook continuing exploratory data analysis from Homework 5] [[interactive cloud version](https://colab.research.google.com/drive/1w1GNj-weihgdESbRmnSA1MPe8TtG0n_V?usp=sharing)]
 	
 ## Week 8: Text as Data
 
