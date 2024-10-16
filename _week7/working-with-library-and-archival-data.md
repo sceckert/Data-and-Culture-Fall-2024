@@ -28,7 +28,7 @@ In your groups, take a look at at the following resources for your collection.
 + Link to [items in the Starr Collection in the library catalog](https://onesearch.wesleyan.edu/discovery/collectionDiscovery?vid=01CTW_WU:CTWWU&collectionId=81340295130003768)
 + Not all data is digital, or even machine readable! You might might look at the following sources as you think about this collection:
     + [A bibliography of modern Arthuriana](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9911922523903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,arthuriana%20bibliography,AND&mode=advanced&offset=0)
-    + More arthuriana
+    + [More Arthuriana](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9911922523903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,arthuriana%20bibliography,AND&mode=advanced&offset=0)
 
 
 ### Hallock Collection
@@ -36,10 +36,10 @@ In your groups, take a look at at the following resources for your collection.
 + Link to [items in the Hallock Collection in the library catalog](https://onesearch.wesleyan.edu/discovery/search?query=creator,exact,Hallock,%20Frank%20K.,AND&tab=LibraryCatalog&search\_scope=MyInstitution&vid=01CTW\_WU:CTWWU&mode=advanced&offset=0.)
     + [*Note*: provenance––i.e. the origins of a collection––is marked as coming from Frank Hallock is by including him as a "Contributor"]
 + Not all data is digital, or even machine readable! You might might look at the following sources as you think about this collection:
-    + Hawthorne bibliography
-    + Holmes bibliography 
-    + BAL
-    + Stoddard/Whitesell 
+    + [Hawthorne bibliography](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma998666823903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,hawthorne%20bibliography,AND&mode=advanced&offset=0)
+    + [Holmes bibliography](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma999010173903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,oliver%20wendell%20holmes%20bibliography,AND&mode=advanced&offset=0) 
+    + [Bibliography of American Literature](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma992985583903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,bibliography%20of%20american%20lierature,AND&mode=advanced&offset=0)
+
 
 
 ### Baskin Collection
@@ -53,7 +53,8 @@ In your groups, take a look at at the following resources for your collection.
 + Link to a [*very partial and incomplete* set of items from the original Barney bequest in the library catalog](https://onesearch.wesleyan.edu/discovery/search?query=any,exact,Barney,%20Caroline%20Clark,AND&tab=LibraryCatalog&search_scope=MyInstitution&vid=01CTW_WU:CTWWU&mode=advanced&offset=0)
     + An important note Barney collection: not all items from the Barney fund are formally recognized as such. The Barney collection is *much*, much larger.(Tess Goodman, Amanda Nelson and I are in the process of assembling a list of all Barney materials from the backend of the library database, and from other records, like the donor records, if you're interested!)
 + Not all data is digital, or even machine readable! You might might look at the following sources as you think about this collection:
-    + Dickinson bibliography
+    + [A bibliographical description of books and pamphlets of American verse printed from 1610 through 1820](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9923660783903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,stoddard%20whitesell,AND&mode=advanced&offset=0) 
+    + [Dickinson bibliography](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma997977293903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,dickinson%20bibliography,AND&mode=advanced&offset=0)
     
 ## Part 2
 
