@@ -20,12 +20,14 @@ In your groups, take a look at at the following resources for your collection.
 
 + Link to metadata for the items we viewed Monday: https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/Wesleyan-Special-Collections-Data/Artists-Books-viewed.csv
 + Link to [items in the Artist's Books Collection in the library catalog](https://onesearch.wesleyan.edu/discovery/collectionDiscovery?vid=01CTW_WU:CTWWU&collectionId=81434145360003768)
++ Link to a PDF of the [catalog records for *all* the items on view Monday](https://wesmoodle.wesleyan.edu/pluginfile.php/1773377/mod_resource/content/0/catalog-records-for-all-viewed-items.pdf)
 + Not all data is digital! You might might look at the following sources as you think about this collection:
     + [Drucker on artist's books](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9933109373903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&isFrbr=true&tab=LibraryCatalog&query=any,contains,century%20of%20artist%27s%20books,AND&sortby=date_d&facet=frbrgroupid,include,9003138006821359202&mode=advanced&offset=0)
 
 ### Starr Collection: 
 + Link to metadata for the items we viewed Monday: https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/Wesleyan-Special-Collections-Data/Starr-Collection-viewed.csv
 + Link to [items in the Starr Collection in the library catalog](https://onesearch.wesleyan.edu/discovery/collectionDiscovery?vid=01CTW_WU:CTWWU&collectionId=81340295130003768)
++ Link to a PDF of the [catalog records for *all* the items on view Monday](https://wesmoodle.wesleyan.edu/pluginfile.php/1773377/mod_resource/content/0/catalog-records-for-all-viewed-items.pdf)
 + Not all data is digital, or even machine readable! You might might look at the following sources as you think about this collection:
     + [A bibliography of modern Arthuriana](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9911922523903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,arthuriana%20bibliography,AND&mode=advanced&offset=0)
     + [More Arthuriana](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9911922523903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,arthuriana%20bibliography,AND&mode=advanced&offset=0)
@@ -35,6 +37,7 @@ In your groups, take a look at at the following resources for your collection.
 + Link to metadata for the items we viewed Monday:https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/Wesleyan-Special-Collections-Data/Hallock-Collection-viewed.csv
 + Link to [items in the Hallock Collection in the library catalog](https://onesearch.wesleyan.edu/discovery/search?query=creator,exact,Hallock,%20Frank%20K.,AND&tab=LibraryCatalog&search\_scope=MyInstitution&vid=01CTW\_WU:CTWWU&mode=advanced&offset=0.)
     + [*Note*: provenance––i.e. the origins of a collection––is marked as coming from Frank Hallock is by including him as a "Contributor"]
++ Link to a PDF of the [catalog records for *all* the items on view Monday](https://wesmoodle.wesleyan.edu/pluginfile.php/1773377/mod_resource/content/0/catalog-records-for-all-viewed-items.pdf)
 + Not all data is digital, or even machine readable! You might might look at the following sources as you think about this collection:
     + [Hawthorne bibliography](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma998666823903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,hawthorne%20bibliography,AND&mode=advanced&offset=0)
     + [Holmes bibliography](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma999010173903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,oliver%20wendell%20holmes%20bibliography,AND&mode=advanced&offset=0) 
@@ -52,6 +55,7 @@ In your groups, take a look at at the following resources for your collection.
 + Link to metadata for the items we viewed Monday:https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/Wesleyan-Special-Collections-Data/Barney-Collection-viewed.csv
 + Link to a [*very partial and incomplete* set of items from the original Barney bequest in the library catalog](https://onesearch.wesleyan.edu/discovery/search?query=any,exact,Barney,%20Caroline%20Clark,AND&tab=LibraryCatalog&search_scope=MyInstitution&vid=01CTW_WU:CTWWU&mode=advanced&offset=0)
     + An important note Barney collection: not all items from the Barney fund are formally recognized as such. The Barney collection is *much*, much larger.(Tess Goodman, Amanda Nelson and I are in the process of assembling a list of all Barney materials from the backend of the library database, and from other records, like the donor records, if you're interested!)
++ Link to a PDF of the [catalog records for *all* the items on view Monday](https://wesmoodle.wesleyan.edu/pluginfile.php/1773377/mod_resource/content/0/catalog-records-for-all-viewed-items.pdf)
 + Not all data is digital, or even machine readable! You might might look at the following sources as you think about this collection:
     + [A bibliographical description of books and pamphlets of American verse printed from 1610 through 1820](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma9923660783903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,stoddard%20whitesell,AND&mode=advanced&offset=0) 
     + [Dickinson bibliography](https://onesearch.wesleyan.edu/discovery/fulldisplay?docid=alma997977293903768&context=L&vid=01CTW_WU:CTWWU&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,dickinson%20bibliography,AND&mode=advanced&offset=0)
