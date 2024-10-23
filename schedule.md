@@ -146,7 +146,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 - Read: Arthur Conan Doyle, "A Scandal in Bohemia" (1892) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732381/mod_resource/content/0/Doyle-A-Scandal-in-Bohemia-Strand-Magazine-July-1891.pdf) and “The Man with the Twisted Lip”(1892) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732383/mod_resource/content/0/Doyle-The-Man-with-a-Twisted-Lip-Strand-Magazine-Dec-1891.pdf)
 - Read: Franco Moretti, “The Slaughterhouse of Literature” (2001) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732385/mod_resource/content/0/Moretti-The-Slaughterhouse-of-Literature.pdf)
-
+- [In-class exercise](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/detective-fiction.md)
 
 ## Week 9: Genre Data: The Case of Detective Fiction 
 
