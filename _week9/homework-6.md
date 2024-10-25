@@ -25,8 +25,9 @@ Some suggestions:
 + If you are interested in the Sherlock Holmes stories as they appeared  in *The Strand Magazine* ...
 	+ You may use [HathiTrust](https://catalog.hathitrust.org/Record/000642318) to download either plaintext or PDF versions of The *Strand Magazine* in HathiTrust libraries
 		+ Link to the [locations of particular stories in HathiTrust](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/detective-fiction.md#sherlock-holmes-stories)
-		+ To download the plain text of a page from HathiTrust, click on the "Download" button lefthand menu, and then select plain text. Repeat this step, selecting the PDF. 
-		+ To download **more than one page**, check the squares in the upper righthand corner.
+		+ To download the plain text or PDF of pages from HathiTrust, first click "Log in" in the upper righthand corner. (It will prompt you to sign in through Wesleyan University Library.
+			+  Then click on the "Download" button lefthand menu, and then select plain text. Repeat this step, selecting the PDF. 
+			+ To download **more than one page**, check the squares that appear along the righthand pane above the rotate and + / - signs. (Checking a square indicates you've selected that page)
 	+ You might consider:
 		+ What if we wanted to analyze and compare just the language on first page of each of the twelve stories in *The Adventures of Sherlock Holmes* and *The Memoirs of Sherlock Holmes*?
 		+ What if we wanted to compare how the pieces appeared visually on the page-- the kinds of illustrations that appear? The scenes that are illustrated? (Do the kinds of scenes illustrated in Sherlock Holmes change over time––do we see more or less Holmes at Home)?
