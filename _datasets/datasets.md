@@ -18,8 +18,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	+ [Writing About Shakespeare: 1960–2010](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.4)
 	+ [The Library of Congress collection of Zora Neale Hurston plays](https://www.loc.gov/collections/zora-neale-hurston-plays/about-this-collection/)
 - Periodicals, magazines, and newspapers:
-      - [The Curran Index to Nineteenth-Century Periodicals](https://www.curranindex.org/). This is "a project for attributing authorship to the many articles, reviews, stories, novels, and poems that appeared anonymously in the periodical press of Victorian Britain and its empire". It includes 59 major 19th-century magazines and periodicals. Use the database to create downloadable CSVs of the magazines, articles, and contributors, in the world of 19th-century anonymous magazine writing. 
-      - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
+    - [The Curran Index to Nineteenth-Century Periodicals](https://www.curranindex.org/). This is "a project for attributing authorship to the many articles, reviews, stories, novels, and poems that appeared anonymously in the periodical press of Victorian Britain and its empire". It includes 59 major 19th-century magazines and periodicals. Use the database to create downloadable CSVs of the magazines, articles, and contributors, in the world of 19th-century anonymous magazine writing. 
+    - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
     - [“Periodical Poetry Index.”](https://www.periodicalpoetry.org/index.htm)
     - [African American Periodical Poetry](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html)
