@@ -15,6 +15,8 @@ This two-part homework is designed to give you time for brainstorming and collab
 
 **Practice collecting a small dataset**. You get to decide the focus: on a subset of Arthur Conan Doyle's detective fiction, on a subset of other work published in *The Strand*, a set of metadata, etc.  It can be a folder of plain text files on your computer, a spreadsheet with metadata about, a set of PDFs, a set of printed out images--let your research question guide the work.
 
+As you collect your sources, remember to record any relevant metadata.
+
 Some suggestions: 
 
 + If you're interested in creating a collection of collection of plain text files–...
@@ -36,8 +38,9 @@ Some suggestions:
 	+ You might browse through facsimiles volumes of *The Strand* in [HathiTrust](https://catalog.hathitrust.org/Record/000642318) or  [Internet Archive](https://archive.org/details/thestrandmagazine?tab=collection&query=Strand&sort=date&and%5B%5D=year%3A%5B1891+TO+1925%5D)
 + If you're interested in the detective story in the *Strand* and beyond...
 	+ You might look at the a subset of the  "author" or "story" CSV files in Adam Hammond and Simon Stern’s [“The Birth of The Modern Detective Story” dataset](https://www.adamhammond.com/bmds/). The dataset includes a collection of 439 texts, and two CSV files: one with metadata on authors and one the project team's annotations of these stories. You can explore and filter the BMDS dataset in [this Google Colab Notebook](https://colab.research.google.com/drive/1w-kMR66pQtYdMoDsBK1gSQDIxcTCrzp8?usp=sharing). 
-		+ For instance: what can we learn by looking at patterns in the *titles* of early detective fiction? 	
-+ If you'r interested in editions and rewritings of *The Adventures of Sherlock Holmes*...
+		+ For instance: what can we learn by looking at patterns in the *titles* of early detective fiction?
+		+ Or you might use the publication and publisher information from the BMDS dataset and other sources to compare authors and illustrators published in *The Strand* with other magazines.
++ If you're interested in editions and rewritings of *The Adventures of Sherlock Holmes*...
 	+ You might use [Zotero](https://www.zotero.org/), the Zotero browser extension and [WorldCat](https://search.worldcat.org/) to track down and save bibliographic data on different reprintings of *The Adventures of Sherlock Holmes* 
 	+ You might look at non-digital data:
 		+  Richard Lancelyn Green and John Michael Gibson, *A bibliography of A. Conan Doyle* (Oxford: Clarendon Press ; New York : Oxford University Press, 1983). Olin Library Stacks: Call Number ; Z8240 .G73 1983
