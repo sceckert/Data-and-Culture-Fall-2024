@@ -16,7 +16,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	+ [Walt Whitman Archive](https://whitmanarchive.org/)
 	+ Early [reprintings of Edgar Allan Poe's "The Raven" (1845)](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/in-class-exercise.md)
 	+ [Writing About Shakespeare: 1960–2010](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.4)
-	+ [The Library of Congress collection of Zora Neale Hurston plays](# Zora Neale Hurston Plays at the Library of Congress)
+	+ [The Library of Congress collection of Zora Neale Hurston plays](https://www.loc.gov/collections/zora-neale-hurston-plays/about-this-collection/)
 - Periodicals, magazines, and newspapers:
       - [The Curran Index to Nineteenth-Century Periodicals](https://www.curranindex.org/). This is "a project for attributing authorship to the many articles, reviews, stories, novels, and poems that appeared anonymously in the periodical press of Victorian Britain and its empire". It includes 59 major 19th-century magazines and periodicals. Use the database to create downloadable CSVs of the magazines, articles, and contributors, in the world of 19th-century anonymous magazine writing. 
       - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
@@ -59,7 +59,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - Datasets of [book holdings in the British Library, broken down by genre](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
-- The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on 
+- The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on contemporary fiction. 
 - A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
 - A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
