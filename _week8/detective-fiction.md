@@ -25,15 +25,15 @@ Experiment 2. Then, working in pairs, select **two Sherlock Holmes stories from 
 	+ ["VII. The Adventure of the Blue Carbuncle"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=81) (January 1892)
 		+   Transcription of the *Strand* issue contents: [Vol. 3, Issue, 13, January 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_13)
 	+ ["VIII. The Adventure of the Speckled Band"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=150) (February 1892)
-		+   Transcription of the *Strand* issue contents: [Vol. 3, Issue, 14, February 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_14)
+		+  Transcription of the *Strand* issue contents: [Vol. 3, Issue, 14, February 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_14)
 	+ ["IX. The Engineer's Thumb"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=284) (March 1892)
 		+  Transcription of the *Strand* issue contents: [Vol. 3, Issue, 15, March 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_15)
 	+ ["X. The Adventure of the Noble Bachelor"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=394)  (April 1892)
 		+  Transcription of the *Strand* issue contents: [Vol. 3, Issue, 16, April 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_16)
-    	+ ["XI. The Adventure of the Beryl Coronet"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=519) (May 1892)
+	+  ["XI. The Adventure of the Beryl Coronet"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=519) (May 1892)
 		+  Transcription of the *Strand* issue contents: [Vol. 3, Issue, 17, May 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_17)
-    	+ ["XII. The Adventure of the Copper Beeches"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=394) (June 1892)
-		+   Transcription of the *Strand* issue contents: [Vol. 3, Issue, 18, June 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_18)
+	+  ["XII. The Adventure of the Copper Beeches"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=394) (June 1892)
+		+  Transcription of the *Strand* issue contents: [Vol. 3, Issue, 18, June 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_18)
 	+  [Index to the *Strand* vol 2. July - December 1891](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=677babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=677)
 	+  [Index to the *Strand* vol 3. January - June 1892](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=665)
 
@@ -64,9 +64,9 @@ Experiment 2. Then, working in pairs, select **two Sherlock Holmes stories from 
 		+ Transcription of the *Strand* issue contents: [Vol. 6, Issue 35, November 1893](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_6/Issue_35)
 	+ ["XXIV. The Adventure of the Final Problem"](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086857912&seq=567) (December 1893)
 		+ Transcription of the *Strand* issue contents: [Vol. 6, Issue 36, December 1893](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_6/Issue_36)
-	+ [Index to The Strand vol 4. July - December 1892](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380565&seq=687) 
-	+ [Index to The Strand vol. 5 January - June 1893](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380730&seq=657) 
-	+ [Index to The Strand vol. 6 July - December 1893](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086857912&seq=729)
+	+ [Index to the *Strand* vol 4. July - December 1892](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380565&seq=687) 
+	+ [Index to the *Strand* vol. 5 January - June 1893](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380730&seq=657) 
+	+ [Index to the *Strand* vol. 6 July - December 1893](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086857912&seq=729)
 	
  	    
 --—
