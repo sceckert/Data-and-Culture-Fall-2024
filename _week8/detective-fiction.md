@@ -7,7 +7,7 @@ Experiment 1. First, as a pair, take a look at Sidney Paget's illustrations for 
 
 Experiment 2. Then, working in pairs, select **two Sherlock Holmes stories from *The Strand* magazine and compare FIRST PAGES of the stories.** (Click on the links provided by Victorian Voices to access the PDF facsimiles of each story) What sorts of patterns do we notice? How do the openings of two stories compare to each other? To "A Scandal in Bohemia" and "The Man with the Twisted Lip"?
 
-### Stories from *The Adventures of Sherlock Holmes* and *The Memoirs of Sherlock Holmes* in the *Strand Magazine* 
+### Sherlock Holmes stories
 
 + *The Adventures of Sherlock Holmes* in *The Strand Magazine*:
 	+  ["I. A Scandal in Bohemia"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=69) (July 1891)
