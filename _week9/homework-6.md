@@ -13,7 +13,7 @@ This two-part homework is designed to give you time for brainstorming and collab
 
 ## Part 2: Collecting a mini dataset
 
-**Practice collecting a small dataset**. You get to decide the focus: on a subset of Arthur Conan Doyle's detective fiction, on a subset of other work published in *The Strand*, a set of metadata, etc.  It can be a folder of plain text files on your computer, a spreadsheet with metadata about, a set of PDFs, a set of printed out images--let your research question guide the work.
+**Practice collecting a small dataset**. You get to decide the focus: on a subset of Arthur Conan Doyle's detective fiction, on a subset of other work published in *The Strand*, on other British magazines from the 1890s, on a set of metadata, etc.  It can be a folder of plain text files on your computer, a spreadsheet with metadata about, a set of PDFs, a set of printed out images--let your research question guide the work.
 
 As you collect your sources, remember to record any relevant metadata.
 
@@ -46,6 +46,10 @@ Some suggestions:
 	+ You might look at non-digital data:
 		+  Richard Lancelyn Green and John Michael Gibson, *A bibliography of A. Conan Doyle* (Oxford: Clarendon Press ; New York : Oxford University Press, 1983). Olin Library Stacks: Call Number ; Z8240 .G73 1983
 		+ *A catalogue of original manuscripts, and first and other important editions of the tales of Sherlock Holmes, as written by Sir Arthur Conan Doyle. Together with important biographies, pastiches, articles, etc., and a few extraordinary association and unique items.* (New York, N.Y. : Scribner Book Store; 1943) Available in Wesleyan Special Collections & Archives, Call Number: YYF D75 2S
++  If you're interested in the social life of literature and the field of 1890s-1910s magazines beyond*The Strand* ...
+	+  You might use the [Yellow Nineties Project](https://1890s.ca/magazine_rack/) to assemble a dataset from other 1890s-era Victorian illustrated and artists' magazines. Or you might use the project's [Y90's Personagraphy database](https://personography.1890s.ca/using-this-site/) to assembly biographical metadata about contributors and publishers in the 8 magazines in their dates
+	+  You might look at the 1910 issue of the *Strand Magazine* in comparison to the other 23 British and American magazines from 1910-1911 held in the [Modernist Journals Projects](https://modjourn.org/journal/strand-magazine/#comprise)
+		+  The Modernist Journals Project's MJP Lab also has smaller, machine-readable datasets for 13 of their periodicals available on Sourceforge. Here is an [overview of that data](https://sourceforge.net/p/mjplab/home/Home/) and here are [links to the individual folders](https://sourceforge.net/projects/mjplab/files/) with the metadata on titles, contributors, editors and full text transcriptions of each magazine issue.
 
 
 
