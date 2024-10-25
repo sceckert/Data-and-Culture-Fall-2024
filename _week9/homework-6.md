@@ -50,6 +50,7 @@ Some suggestions:
 	+  You might use the [Yellow Nineties Project](https://1890s.ca/magazine_rack/) to assemble a dataset from other 1890s-era Victorian illustrated and artists' magazines. Or you might use the project's [Y90's Personagraphy database](https://personography.1890s.ca/using-this-site/) to assembly biographical metadata about contributors and publishers in the 8 magazines in their dates
 	+  You might look at the 1910 issue of the *Strand Magazine* in comparison to the other 23 British and American magazines from 1910-1911 held in the [Modernist Journals Projects](https://modjourn.org/journal/strand-magazine/#comprise)
 		+  The Modernist Journals Project's MJP Lab also has smaller, machine-readable datasets for 13 of their periodicals available on Sourceforge. Here is an [overview of that data](https://sourceforge.net/p/mjplab/home/Home/) and here are [links to the individual folders](https://sourceforge.net/projects/mjplab/files/) with the metadata on titles, contributors, editors and full text transcriptions of each magazine issue.
+	+  Or you might compare issues of the *Strand* to a different kind of magazine: the all-fiction, pulpwood magazines in the U.S. using the [Pulp Magazines Project](https://www.pulpmags.org/) digital archive.
 
 
 

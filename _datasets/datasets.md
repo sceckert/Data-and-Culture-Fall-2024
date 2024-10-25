@@ -21,11 +21,13 @@ For the purposes of this class, we're going to be focusing on datasets that are 
     - [The Curran Index to Nineteenth-Century Periodicals](https://www.curranindex.org/). This is "a project for attributing authorship to the many articles, reviews, stories, novels, and poems that appeared anonymously in the periodical press of Victorian Britain and its empire". It includes 59 major 19th-century magazines and periodicals. Use the database to create downloadable CSVs of the magazines, articles, and contributors, in the world of 19th-century anonymous magazine writing. 
     - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
-    - [“Periodical Poetry Index.”](https://www.periodicalpoetry.org/index.htm)
+    - [Periodical Poetry Index](https://www.periodicalpoetry.org/index.htm)
+    - [Digital Victorian Periodical Poetry datasets](https://dvpp.uvic.ca/analysis.html)
     - [African American Periodical Poetry](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html)
     -  [La Gaceta](https://github.com/UMiamiLibraries/collections-as-data) - Cuban 19th century newspaper
     -  A [dataset of the full run of *The Spiritualist* journal (1869-1882)](https://data.nls.uk/data/digitised-collections/spiritualist-newspapers/)
     -  ["‘To Be Continued...’: Australian Newspaper Fiction Database.”](https://cdhrdatasys.anu.edu.au/anfd/web/index.php?r=trove/search)
+    -  The [Pulp Magazine Project](https://www.pulpmags.org/) digital archive and downloadable [datasets](https://github.com/belkp/pulpmags) 
     -  A dataset of [reprinted work in British Newspapers, 1800-1837](https://github.com/mhbeals/georgianreprints/tree/v1.0.0)
 	    -  Dataset of [reprints only](https://zenodo.org/records/200399#.XpoIwVNKjVo)
     - A collection of [newspapers edited by Frederick Douglass, 1847-1874](https://www.loc.gov/collections/frederick-douglass-newspapers/about-this-collection/)
@@ -41,6 +43,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 -  Documenting the American South (DocSouth). [“First-Person Narratives Collection.”](https://docsouth.unc.edu/fpn/)
 -  Documenting the American South (DocSouth) [“Library of Southern Literature.”](https://docsouth.unc.edu/southlit/)
 -  Documenting the American South (DocSouth) [“North American Slave Narratives.”](https://docsouth.unc.edu/neh/) 
+-  [The English Novel, 1830–1836: A Bibliographical Survey of Fiction Published in the British Isles](https://www.romtext.org.uk/resources/english-novel-1830-36/) is a full set of bibliographic descriptions of work drawn from [British Fiction, 1800–1829: A Database of Production, Circulation, and Reception](http://www.british-fiction.cf.ac.uk/browse.html) 
+	-  Scroll down for the full bibliography. See also the [2023 update](https://www.romtext.org.uk/reports/rt24_116/)
 - [Eighteenth-Century Novels Database (END): A collection of metadata for 2,000 novels published between 1660 and 1850](https://github.com/earlynovels/) created as a part of the [Early Novels Database (END)](https://earlynovels.github.io/) 
 	- Full [dataset](https://github.com/earlynovels/end-dataset)
 	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts
@@ -55,6 +59,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - Datasets related to the [Baldwin Collection of Historical Children's Literature](https://ufdc.ufl.edu/collections/juv)
 - The [317 titles on Project Gutenberg's "Children's Literature" shelf](https://www.gutenberg.org/ebooks/bookshelf/20)
 - A collection of all the volumes in the [Harvard Classics](https://en.wikipedia.org/wiki/Harvard_Classics) series available on [Project Gutenberg](https://www.gutenberg.org/ebooks/bookshelf/40)
+- A collection of 1,300 of cheap, ["yellowback" Victorian reprints](https://archive.org/details/yellowbacks) from Emory University Libraries. For more on the project and the larger collection, see [Yellowbacks at Emory](https://yellowbacks.digitalscholarship.emory.edu/)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - Datasets of [book holdings in the British Library, broken down by genre](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en)
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
@@ -70,13 +75,14 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A dataset of [Nordic crime fiction  in translation 2000–2020](https://data.post45.org/the-nordic-noir-in-translation-database-2000-2020/)
 - Datasets for the [winners and judges of major literary prizes between 1918 and 2020](https://data.post45.org/the-index-of-major-literary-prizes-in-the-us/)
 - Datasets of [New York Times_ Hardcover Fiction Bestsellers, 1931–2020](https://data.post45.org/nyt-fiction-bestsellers-data/)
--  [“Victorian Serial Novels”](https://archive.org/details/victorianserialnovels?&sort=-week&page=2)
+-  [“Victorian Serial Novels”](https://archive.org/details/victorianserialnovels?&sort=-week&page=2) and the project's [collection overview](https://vault.library.uvic.ca/collections/9335ca74-15a3-4456-ad6f-517dac5a9f66?locale=en&view=gallery)
 - [The Victorian Women Writers Project](https://github.com/iulibdcs/Victorian-Women-Writers-Project)
 	- Includes links to a collection of full-texts by 19th-century women writers and a collection of XML-encoded versions of those texts (XML is short for Extensible Markup Language, a markup language for capturing metadata within the file)
 - [The Archive of Recorded Poetry and Literature at the Library of Congress](https://www.loc.gov/collections/archive-of-recorded-poetry-and-literature/about-this-collection/)
 - [St. Mark's Poetry Project Audio Archive](https://www.loc.gov/collections/st-marks-poetry-project-audio-archive/about-this-collection/)
 - [American Life Histories: Manuscripts from the Federal Writers' Project, 1936 to 1940](https://www.loc.gov/collections/federal-writers-project/about-this-collection/)
 - [A collection of author websites archived by the Library of Congress](https://www.loc.gov/collections/author-websites-web-archive/about-this-collection/)
+- [A collection of 14,00 images, audio, and texts from the Middlebury Bread Loaf Writers' Conference and School of English](https://archive.org/details/breadloaf?tab=about)
 
 
 
@@ -124,6 +130,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	- Download dataset (as well as additional project data) from the project's [GitHub repository](https://github.com/xpmethod/torn-apart-open-data)
 	- For more on the composition and origins of the data, scroll down to the [section labeled "Data" on the project credits page](http://xpmethod.columbia.edu/torn-apart/credits.html).
 - [Switching the Lens - Rediscovering Londoners of African, Caribbean, Asian and Indigenous Heritage, 1561 to 1840](https://www.cityoflondon.gov.uk/things-to-do/history-and-heritage/london-metropolitan-archives/about-lma/switching-the-lens-project) project [dataset](https://search.lma.gov.uk/scripts/mwimain.dll?logon&application=UNION_VIEW&language=144&file=[lma]through-the-lens.html&utm_source=col&utm_medium=web&utm_campaign=switching-the-lens) 
+- [London Lives: 1690 to 1800: Crime, Poverty and Social Policy in the Metropolis](https://www.londonlives.org/index.jsp) brings together manuscript and print sources from eight different historical archives.
 - [U.S. National Park Visit Data (1979-2023)](https://www.responsible-datasets-in-context.com/posts/np-data/)
 -  A dataset of [obituaries published in the _NYTimes_ from 1852-2007](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#the-new-york-times-obituaries)
 -  A dataset of the [first eight editions of the Encyclopedia Britannica](https://data.nls.uk/data/digitised-collections/encyclopaedia-britannica/)
