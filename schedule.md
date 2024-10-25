@@ -151,7 +151,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 ## Week 9: Genre Data: The Case of Detective Fiction 
 
 #### Mon 10/28  The Data of Detective Fiction
-- Read: One additional Sherlock Holmes story of your choice from either Project Gutenberg *Adventures of Sherlock Holmes* (1892) or the HathiTrust copy
+- Read: One additional Sherlock Holmes story of your choice [from either Project Gutenberg *Adventures of Sherlock Holmes* (1892) or the HathiTrust copy](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/detective-fiction.md#sherlock-holmes-stories)
 -  Read: Ted Underwood, "Chapter 2: The Life Spans of Genres," Distant Horizons (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732387/mod_resource/content/0/Underwood-Distant-Horizons-The-Life-Spans-of-Genres.pdf)
 - Optional reading: Ted Underwood, ["Appendices A & B: Data and Methods""](https://princeton.instructure.com/courses/8132/files?preview=1617347)
 -  Explore: 
@@ -159,13 +159,14 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 	- Christoph Ender’s “[The Complete Sherlock Holmes Canon”](https://sherlock-holm.es/)(try examining both the PDF and plain text versions)
 
 
-#### Wed 10/30  Natural Language Processing: Detecting Persons, Places, and Things
+#### Wed 10/30  Detecting Persons, Places, and Things
 
 - Read 3 very short pieces on data-driven methods method:
 	- Lincoln Mullen, ["Isn't It Obvious?" (2018)](https://lincolnmullen.com/blog/isnt-it-obvious/)
 	- Matthew Lincoln, ["Confabulation in the Humanities"(2015)](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
 	- Scott Weingart ["Argument Clinic" (2017)](https://web.archive.org/web/20210413085718/https://scottbot.net/argument-clinic/)
-- Due: [Homework 6]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/homework-6.md)-->
+- Due: [Homework 6](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/homework-6.md)-->
+- Read through following Jupyter Colab notebook as background for our practicum: [Finding Persons and Places in *The Adventures of Sherlock Holmes*](https://colab.research.google.com/drive/1r6noBWarLZCdjB2y3qYjl4MDIM_GhgWU?usp=sharing)
 - *In-class practicum*: [Text analysis]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/introduction-to-git-and-github.md)-->
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk8-thu.html)-->
 
@@ -182,9 +183,9 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Wed 11/6 - Topic Modeling
 - Read Ted Underwood, [“Topic modeling made just simple enough”](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) (2012)
-- Due:  nothing! Work on your final project proposal!
+- Due: nothing! Work on your final project proposal!
 - [Read through this short set of topic modeling set-up instructions](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/topic-modeling-set-up-instructions.md)
-- *In-class practicum*: [Topic modeling with MALLET]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/introduction-to-topic-modeling.ipynb). [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)-->
+- *In-class practicum*: [Topic modeling, or, how to sift through many texts.]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/introduction-to-topic-modeling.ipynb). [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)-->
 
 ## Week 11: Reading Data Visualization
 

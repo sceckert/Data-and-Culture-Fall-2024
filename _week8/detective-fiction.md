@@ -9,7 +9,7 @@ Experiment 2. Then, working in pairs, select **two Sherlock Holmes stories from 
 
 ### Sherlock Holmes stories
 
-+ *The Adventures of Sherlock Holmes*:
++ *The Adventures of Sherlock Holmes* in *The Strand Magazine*:
     + ["I. A Scandal in Bohemia"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=69) (July 1891)
     + ["II. The Red-Headed League"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=198) (August 1891)
     + ["III. A Case of Identity"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=256) (September 1891)
@@ -23,7 +23,7 @@ Experiment 2. Then, working in pairs, select **two Sherlock Holmes stories from 
     + ["XI. The Adventure of the Beryl Coronet"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=519) (May 1892)
     + ["XII. The Adventure of the Copper Beeches"](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=394) (June 1892)
     + [Index to the *Strand* vol 2. July - December 1891](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=677babel.hathitrust.org/cgi/pt?id=njp.32101076380581&seq=677)
-    + [Index to the *Strand* vol 3. January - June 1892]((https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=665)
+    + [Index to the *Strand* vol 3. January - June 1892](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380573&seq=665)
     + Transcription of the issue table of contents
 	    + [July 1891](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_2/Issue_7)
 	    + [August 1891](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_2/Issue_8)
@@ -38,7 +38,7 @@ Experiment 2. Then, working in pairs, select **two Sherlock Holmes stories from 
 	    + [May 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_17)
 	    + [June 1892](https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_18)
 
-+ *The Memoirs of Sherlock Holmes*: 
++ *The Memoirs of Sherlock Holmes* in *The Strand Magazine*: 
 	+ [Index to The Strand vol 4. July - December 1892](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380565&seq=687) 
 	+ [Index to The Strand vol. 5 January - June 1893](https://babel.hathitrust.org/cgi/pt?id=njp.32101076380730&seq=657) 
 	+ [Index to The Strand vol. 6 July - December 1893](https://babel.hathitrust.org/cgi/pt?id=mdp.39015086857912&seq=729) 
