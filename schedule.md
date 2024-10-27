@@ -153,9 +153,10 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Mon 10/28  The Data of Detective Fiction
 - Read: One additional Sherlock Holmes story of your choice [from either Project Gutenberg *Adventures of Sherlock Holmes* (1892) or the HathiTrust copy](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/detective-fiction.md#sherlock-holmes-stories)
 -  Read: Ted Underwood, "Chapter 2: The Life Spans of Genres," Distant Horizons (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732387/mod_resource/content/0/Underwood-Distant-Horizons-The-Life-Spans-of-Genres.pdf)
-- Optional reading: Ted Underwood, ["Appendices A & B: Data and Methods""](https://princeton.instructure.com/courses/8132/files?preview=1617347)
+- Optional reading: Ted Underwood, ["Appendices A & B: Data and Methods""](https://wesmoodle.wesleyan.edu/pluginfile.php/1778205/mod_resource/content/0/Underwood-Appendices.pdf)
 -  Explore: 
 	- Adam Hammond and Simon Stern’s [“The Birth of The Modern Detective Story” dataset](https://www.adamhammond.com/bmds/)
+	- The online [descriptive bibliography](https://liblilly.sitehost.iu.edu/etexts/detective/index.shtml#DF01) for the exhibit, [*The First Hundred Years of Detective Fiction, 1841-1941*, Lilly Library, Indiana University](https://liblilly.sitehost.iu.edu/etexts/detective/index.shtml)
 	- Christoph Ender’s “[The Complete Sherlock Holmes Canon”](https://sherlock-holm.es/)(try examining both the PDF and plain text versions)
 
 
