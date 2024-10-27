@@ -12,14 +12,17 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	+  [Emily Dickinson Archive](https://www.edickinson.org/)
 	+ [Rossetti Archive](http://www.rossettiarchive.org/) 
 	+ [“Shakespeare Census.”](https://shakespearecensus.org/)
+	+ [The Folger Shakespeare Library's downloadable plays and poetry](https://www.folger.edu/explore/shakespeares-works/download/)
+	+ [Writing About Shakespeare: 1960–2010](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.4)
 	+ [Shelley-Godwin Archive](https://github.com/umd-mith/sga)
 	+ [Walt Whitman Archive](https://whitmanarchive.org/)
 	+ Early [reprintings of Edgar Allan Poe's "The Raven" (1845)](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/in-class-exercise.md)
-	+ [Writing About Shakespeare: 1960–2010](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.4)
 	+ [The Library of Congress collection of Zora Neale Hurston plays](https://www.loc.gov/collections/zora-neale-hurston-plays/about-this-collection/)
+	+ [The Agatha Christie Ouvre](https://docs.google.com/spreadsheets/d/1A8ZRe5KLLAllhT31pCzke4j5qAPqeMKf0jYgyJXcoPs/edit?gid=0#gid=0)
+	+ [E.E. Cummings Free Poetry Archive](https://cummings.ee/)
 - Periodicals, magazines, and newspapers:
     - [The Curran Index to Nineteenth-Century Periodicals](https://www.curranindex.org/). This is "a project for attributing authorship to the many articles, reviews, stories, novels, and poems that appeared anonymously in the periodical press of Victorian Britain and its empire". It includes 59 major 19th-century magazines and periodicals. Use the database to create downloadable CSVs of the magazines, articles, and contributors, in the world of 19th-century anonymous magazine writing. 
-    - A collection of digital scans and metadata on English-language literary magazines published from 1890 to 1922 by the[Modernist Journal Project](https://modjourn.org/).
+    - A collection of digital scans and metadata on English-language literary magazines published from 1890 to 1922 by the [Modernist Journal Project](https://modjourn.org/).
         -  To access detailed machine-readable datasets for 13 of the journals, visit the MJP Lab's SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
     - [Periodical Poetry Index](https://www.periodicalpoetry.org/index.htm)
@@ -67,6 +70,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
 - The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on contemporary fiction. 
+- A dataset of [annotated quotations in 28 English novels](https://github.com/Priya22/project-dialogism-novel-corpus/tree/master)
 - A collection of GoodReads reviews and rankings of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
 - A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
@@ -101,20 +105,28 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 
 - A dataset of [reviews of contemporary London theatre (2010-2020)](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.81)
 - A dataset of [London theatrical culture, 1660-1800](https://londonstagedatabase.uoregon.edu/data.php)
+- A collection of [400 English-language plays from the 1550s to the 1700s](https://dracor.org/eng), along with accompanying network data on speakers, speak
+	- To download detailed network data or full texts for each play, click on each work's title
 - A dataset of [31 plays from Napoleonic-era Paris](https://github.com/grvsmth/theatredeparis?tab=readme-ov-file#theatredeparis)
 - A dataset of [theatrical playbills](https://bl.iro.bl.uk/concern/datasets/a8534aff-c8e3-4fc8-adc1-da542080b1e3?locale=en) from England, Ireland, Scotland and Wales (1660 – 1902) held in the British Library; available as [PDFs](https://bl.iro.bl.uk/concern/datasets/a8534aff-c8e3-4fc8-adc1-da542080b1e3?locale=en) and [OCR'd plain text](https://bl.iro.bl.uk/concern/datasets/807f0563-025e-46be-a251-1ad1ba477981?locale=en)
+- The Broadway League’s [Internet Broadway Database](https://www.ibdb.com/) searchable database of [theatres](https://www.ibdb.com/theatres/), [people](https://www.ibdb.com/cast-staff/), [shows](https://www.ibdb.com/shows/), and [awards](https://www.ibdb.com/awards); [weekly attendance](https://www.broadwayleague.com/research/grosses-broadway-nyc/) and [ticket revenue](https://www.broadwayleague.com/research/grosses-broadway-nyc/); and additional statistics on individual shows (like [*Hadestown*](https://www.ibdb.com/broadway-production/hadestown-520711#Statistics))
+
 
 ### Film & Television
 
 + A dataset of [dialogue in 2,000 Hollywood films](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#hollywood-film-dialogue-by-character-gender-and-age)
     + Derived from the [Cornell Movie Dialogues Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 + [Network data about _Game of Thrones _Character relationships](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#game-of-thrones-character-relationships)
-+ [Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)
-+ A dataset of [racial and ethnic representation in Hollywood films, 1970-2014](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY)
 + A dataset of all the [conversations that occurred over 10 seasons of *Friends*](https://convokit.cornell.edu/documentation/friends.html)
 + [IMBDb datasets](https://developer.imdb.com/non-commercial-datasets/)
-+ Netflix's weekly [lists of their top 10 most watched television and films](https://www.netflix.com/tudum/top10) (scroll down to download all lists from 2021- onward)
-+ [America at Work, America at Leisure: Motion Pictures from 1894-1915](https://www.loc.gov/collections/america-at-work-and-leisure-1894-to-1915/about-this-collection/)
++ A datasets of [1,000+ lines of dialogue of characters on *Stark Trek: The Next Generation* interacting with the Starship Enterprise Computer](https://www.speechinteraction.org/TNG/index.html)
++ [Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)
++ A dataset of [racial and ethnic representation in Hollywood films, 1970-2014](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY)
++ A [dataset of metadata on 4,700 Bollywood films from 1950-2019](https://github.com/pncnmnp/TIMDB), created by [Parth Parikh](https://pncnmnp.github.io/)
++ Netflix's weekly [downloadable datasets of their top 10 most watched films and TV shows](https://www.netflix.com/tudum/top10) (scroll down to download all lists from 2021- onward)
++ A collection of 150 early films from the Library of Congress's [America at Work, America at Leisure: Motion Pictures from 1894-1915](https://www.loc.gov/collections/america-at-work-and-leisure-1894-to-1915/about-this-collection/) collection
++ A dataset of [early movie theaters and theater-going in Oregon during the silent film era](https://oregontheaterproject.uoregon.edu/about-project), complied by the [Oregon Theater Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGOUZ3)
+
 
 
 
@@ -124,8 +136,10 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - [A dataset of U.S. Inaugural Addresses](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#u-s-inaugural-addresses)
 -  [A dataset of Nobel Laureates 1901-2017](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#nobel-prize-winners)
 - A collection of [tales about the Virgin Mary in Ethiopia, Eritrea, and Egypt from 1300 - the present](https://zenodo.org/record/6909569) 
+- A dataset of [21 volumes of Green Books – travelers' guides published between 1930-1960, indicating safe places for black travelers–– digitized by the New York Public Library](https://github.com/NYPL-publicdomain/greenbooks?tab=readme-ov-file#green-books-project) More about the collection available [here](https://digitalcollections.nypl.org/collections/the-green-book#/?tab=about)
+- A dataset of  53,000+ pages of the newspaper *La Gaceta de La Habana** (1849 - 1897), “the paper of record during the Spanish colonial occupation of Cuba in the nineteenth century,” digitized by the University of Miami Libraries.
 - A dataset from the [White House tapes of the Nixon Administration, 1971-1973](https://www.archives.gov/open/nixon/37-wht-dataset-conversationlist.html)
--  [The New York Public Library's Menu dataset](https://web.archive.org/web/20181103032331/http://menus.nypl.org/data)
+-  [The New York Public Library's "What's on the Menu?" dataset](https://web.archive.org/web/20181103032331/http://menus.nypl.org/data)
 	- A zip file of archived dataset can still be accessed [here](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/NYPL-Menu-Dataset.zip?raw=true) 
 	- To access an overview of the data and project glossary, see [Curating Menus](http://curatingmenus.org/data_dictionary/)
 - [Torn Apart/Separados project](http://xpmethod.columbia.edu/torn-apart/volume/1/) data
@@ -152,6 +166,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 -  [Graphic Narrative Corpus (GNC)](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php).
 -  ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 -  [A collection of British political and satirical prints and cartoons held in the Library of Congress](https://www.loc.gov/collections/british-cartoon-prints/about-this-collection/)
+-  A dataset of [36,000 coded panels from 300+ comics from Europe, Asia, and North America, 1940-present) including the entire run of Calvin & Hobbes](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/LWMZ7G)
 
 
 ### Art History
