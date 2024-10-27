@@ -19,12 +19,12 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	+ [The Library of Congress collection of Zora Neale Hurston plays](https://www.loc.gov/collections/zora-neale-hurston-plays/about-this-collection/)
 - Periodicals, magazines, and newspapers:
     - [The Curran Index to Nineteenth-Century Periodicals](https://www.curranindex.org/). This is "a project for attributing authorship to the many articles, reviews, stories, novels, and poems that appeared anonymously in the periodical press of Victorian Britain and its empire". It includes 59 major 19th-century magazines and periodicals. Use the database to create downloadable CSVs of the magazines, articles, and contributors, in the world of 19th-century anonymous magazine writing. 
-    - [Modernist Journal Project](https://modjourn.org/). To access the dataset, visit the SourceForge [about](https://sourceforge.net/projects/mjplab/) page
+    - A collection of digital scans and metadata on English-language literary magazines published from 1890 to 1922 by the[Modernist Journal Project](https://modjourn.org/).
+        -  To access detailed machine-readable datasets for 13 of the journals, visit the MJP Lab's SourceForge [about](https://sourceforge.net/projects/mjplab/) page
         - [Link to files for dataset](https://sourceforge.net/projects/mjplab/files/): contains a list of folders containing downloadable datasets for 14 Modernist journals between 1890-1920s.
     - [Periodical Poetry Index](https://www.periodicalpoetry.org/index.htm)
     - [Digital Victorian Periodical Poetry datasets](https://dvpp.uvic.ca/analysis.html)
     - [African American Periodical Poetry](https://www.responsible-datasets-in-context.com/posts/african-american-periodical-poetry/aa-periodical-poetry.html)
-    -  [La Gaceta](https://github.com/UMiamiLibraries/collections-as-data) - Cuban 19th century newspaper
     -  A [dataset of the full run of *The Spiritualist* journal (1869-1882)](https://data.nls.uk/data/digitised-collections/spiritualist-newspapers/)
     -  ["‘To Be Continued...’: Australian Newspaper Fiction Database.”](https://cdhrdatasys.anu.edu.au/anfd/web/index.php?r=trove/search)
     -  The [Pulp Magazine Project](https://www.pulpmags.org/) digital archive and downloadable [datasets](https://github.com/belkp/pulpmags) 
@@ -51,6 +51,8 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/)
 - [Digital Victorian Periodical Poetry](https://dvpp.uvic.ca/analysis.html)
 - A dataset of [poetry from Project Gutenberg](https://github.com/aparrish/gutenberg-poetry-corpus/tree/master?tab=readme-ov-file#a-gutenberg-poetry-corpus) 
+- [“At the Circulating Library: A Database of Victorian Fiction, 1837–1901”](https://www.victorianresearch.org/atcl/index.php), see also a snapshot of the [dataset here](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/At-the-Circulating-Library-Dataset)
+- [Price One Penny: A Database of Cheap Literature 1837-1860](http://www.priceonepenny.info/database/index.php)
 - Alan Liu's [1880s British Fiction corpus](http://english197s2015studentwork.pbworks.com/w/page/96659757/Our%20Corpora)
 - A collection of European novels (1771-1932): [TxtLAB450. A Multilingual Data Set of Novels for Teaching and Research](https://txtlab.org/2016/01/txtlab450-a-data-set-of-multilingual-novels-for-teaching-and-research/)
 - A collection of [metadata on Australian novels, 1945-2006](https://datacommons.anu.edu.au/DataCommons/item/anudc:5932) and from [1830-1899](https://datacommons.anu.edu.au/DataCommons/item/anudc:5931)
@@ -65,7 +67,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
 - The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on contemporary fiction. 
-- A collection of GoodReads reviews of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
+- A collection of GoodReads reviews and rankings of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
 - A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 - A text corpus of [African-American Literature (1853-1923)](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923), created by Amardeep Singh. 
@@ -89,10 +91,11 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 ### Libraries
 
 - [A collection of borrowing records from an English-language lending-library in Paris in the 1920s-1930s](https://shakespeareandco.princeton.edu/about/data/) - see the [Shakespeare and Company dataset](https://shakespeareandco.princeton.edu/about/data/) and project documentation
-- A dataset of books checked out at the Seattle Public Library. [“Checkouts by Title | City of Seattle Open Data Portal.”](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)
-- [“At the Circulating Library: A Database of Victorian Fiction, 1837–1901”](https://www.victorianresearch.org/atcl/index.php), see also a snapshot of the [dataset here](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/At-the-Circulating-Library-Dataset)
-- [“Main Street Public Library Database,”](http://cardinalscholar.bsu.edu/handle/123456789/194598)
-- A collection of reader marginalia and objects in library books, collected by the ["Book Traces”](https://booktraces.lib.virginia.edu/) project
+- A dataset of books checked out at the Seattle Public Library: [“Checkouts by Title | City of Seattle Open Data Portal.”](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)
+<!-- - The[“Main Street Public Library Database,”](http://cardinalscholar.bsu.edu/handle/123456789/194598) - a database of the Circulation records for five public libraries in the Midwest between 1890 and 1970. -->
+- A database of [circulation records for the Muncie (Indiana) Public Library between 1892 and 1902](https://lib.bsu.edu/wmr/about.php)
+- A [dataset of marginalia from Civil War-era readers and books in Virginia libraries](https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/XVEQMH) collected by the ["Book Traces”](https://booktraces.lib.virginia.edu/) project
+- A collection of [datasets of 19th-century books (divided by genre) digitized by the British Library](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en) and [additional book metadata](https://bl.iro.bl.uk/concern/datasets/c39ec180-bd70-4f33-bd84-d0a093ab7e01?locale=en)
 
 ### Theatre
 
