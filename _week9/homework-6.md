@@ -2,7 +2,7 @@
 
 This two-part homework is designed to give you time for brainstorming and collaborating on final projects as well as practice building and curating your own dataset around specific research questions.
 
-~~~***NOTE: The only part that I ask that you submit are your project brainstorming posts rom part #1!****~~~
+NOTE: The only part that I ask that you submit are your project brainstorming posts rom part #1!
 
 ## Part 1: Project brainstorming!
 
