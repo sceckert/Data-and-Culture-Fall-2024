@@ -51,6 +51,15 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 - [Introduction to Pandas: Using Python to read & explore tabular data](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/python-continued.ipynb) [[interactive version]](https://colab.research.google.com/drive/1yw7Bp8MKK12KtAbqb6KaRwOUu3Xvzbhg?usp=sharing)
 	- [Pandas Cheat Sheet](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week5/python-pandas-cheat-sheet.md)
 - [Advanced Pandas Tips](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week6/advanced-pandas.md)
+    - Example of how to merge three datasets: [Exploring the Birth of the Modern Detective Story Dataset](https://colab.research.google.com/drive/1w-kMR66pQtYdMoDsBK1gSQDIxcTCrzp8?usp=sharing)
+- [Exploratory Data Analysis in Pandas](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloue version](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb)]
+- [Finding Persons and Places in *The Adventures of Sherlock Holmes](https://colab.research.google.com/drive/1r6noBWarLZCdjB2y3qYjl4MDIM_GhgWU) using Named Entity Recognition
+
+### Working with library and archival data
+
++ [Developing Research Questions with Wesleyan Special Collections & Archives Data](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/working-with-library-and-archival-data.md)
++ [The Form of Detective Fiction in the *Strand*](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week8/detective-fiction.md)
++ [Homework 6: practicing data collection ](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/homework-6.md)
 
 
 ### Off-the-Shelf Humanities Data Tools

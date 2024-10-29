@@ -2,14 +2,14 @@
 
 This two-part homework is designed to give you time for brainstorming and collaborating on final projects as well as practice building and curating your own dataset around specific research questions.
 
-NOTE: The only part that I ask that you submit are your project brainstorming posts rom part #1!
+NOTE: The only part that I ask that you submit are your project brainstorming posts + comments from part #1! For Part 2, you don't need to turn anything into me in advance, please come prepared to talk about your data collection work: how you would you go about collecting your dataset. Would include full text files? Just metadata? What fields or data categories wout you capture and how?
 
 ## Part 1: Project brainstorming!
 
 1. Please **post at least one realistic project idea** that you'd be interested in (and sign your name) on [our project brainstorming GoogleDoc](https://docs.google.com/document/d/1Co0Wni6ktOCFIwtMkq5aynPguGVLOkfbUBpAS-YR3_g/edit?tab=t.0#heading=h.k217upgfhgy8)
 	+ You might think about datasets we've worked with that you you were especially interested in, or example projects from the project critique that you found intriguing. Do you have a burning research question or data visualization that you would like to explore as part of your final project?
 	+ Remember that your projects do not need to be web-based, or even computational! You might, for instance create a hand-drawn visualization, in the style of one of our artists books, or [Stephanie Posavec's data art](https://www.stefanieposavec.com/writing-without-words)
-2.  Please **also add one comment to another classmate's post** that you would be interested in collaborating on. Starting next week you will be forming project groups.
+2.   **Please also add one comment to another classmate's post** that you would be interested in collaborating on. Starting next week you will be forming project groups.
 
 ## Part 2: Collecting a mini dataset
 
@@ -17,7 +17,9 @@ NOTE: The only part that I ask that you submit are your project brainstorming po
 
 As you collect your sources, remember to record any relevant metadata.
 
-Some suggestions: 
+**For Part 2, you don't need to turn anything into me, but please come to class prepared to talk about your data collection plan**: how you would you go about collecting your dataset. Would include full text files? Just metadata? What fields or data categories  you capture? Why? How would you do so? etc....
+
+Some suggestions to get you started: 
 
 + If you're interested in creating a collection of collection of plain text files–...
 	+ You might download a set of plain text files of individual stories from Christoph Ender’s [“The Complete Sherlock Holmes Canon”](https://sherlock-holm.es/)
