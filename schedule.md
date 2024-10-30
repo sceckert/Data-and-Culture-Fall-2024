@@ -168,7 +168,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 	- Scott Weingart ["Argument Clinic" (2017)](https://web.archive.org/web/20210413085718/https://scottbot.net/argument-clinic/)
 - Due: [Homework 6](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/homework-6.md)
 - Read through following Jupyter Colab notebook as background for our practicum: [Finding Persons and Places in *The Adventures of Sherlock Holmes*](https://colab.research.google.com/drive/1r6noBWarLZCdjB2y3qYjl4MDIM_GhgWU?usp=sharing)
-- *In-class practicum*: [Text analysis](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/in-class-practicum-with-named-entity-recognition.md)
+- *In-class practicum*: [Detecting Persons, Places, and Things in a Text](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/in-class-practicum-with-named-entity-recognition.md)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk8-thu.html)-->
 
 
