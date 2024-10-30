@@ -72,7 +72,9 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on contemporary fiction. 
 - A dataset of [annotated quotations in 28 English novels](https://github.com/Priya22/project-dialogism-novel-corpus/tree/master)
 - A collection of GoodReads reviews and rankings of "classic" literature:  [“📚The Goodreads Classics📚.”](https://melaniewalsh.github.io/Goodreads-Classics/) Walsh, Melanie, and Maria Antoniak.
-- A collection of [metadata from the fanfiction platform, Archive of Our Own](https://archiveofourown.org/admin_posts/18804).
+- A collection of [metadata from the fanfiction platform, Archive of Our Own (AO3)](https://archiveofourown.org/admin_posts/18804).
+    - The [AO3 Ship Stats project](https://archiveofourown.org/series/1209645) (by a user), has a yearly season of posts aggregating data on the most popular "ship" (relationship) tags for fanfiction, going back to 2013. 
+    - A list of [other posts of AO3 statistics](https://archiveofourown.org/tags/AO3%20Statistics)
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 - A text corpus of [African-American Literature (1853-1923)](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923), created by Amardeep Singh. 
 - A collection of [Colonial South Asian literature, (1850-1923)](https://github.com/amardeepmsingh/Colonial-South-Asian-Literature), created by Amardeep Singh. 
