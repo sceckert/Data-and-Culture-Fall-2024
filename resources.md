@@ -54,6 +54,7 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
     - Example of how to merge three datasets: [Exploring the Birth of the Modern Detective Story Dataset](https://colab.research.google.com/drive/1w-kMR66pQtYdMoDsBK1gSQDIxcTCrzp8?usp=sharing)
 - [Exploratory Data Analysis in Pandas](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloue version](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb)]
 - [Finding Persons and Places in *The Adventures of Sherlock Holmes](https://colab.research.google.com/drive/1r6noBWarLZCdjB2y3qYjl4MDIM_GhgWU) using Named Entity Recognition
+    - [In-Class Practicum Using NER](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/in-class-practicum-with-named-entity-recognition.md)
 
 ### Working with library and archival data
 
@@ -88,3 +89,12 @@ Remember, you can either run a Jupyter notebook by downloading it and opening it
 	+ [Bookworm Line Chart](https://bookworm.htrc.illinois.edu/develop/)
 	+ [Bookworm Playground](https://bookworm.htrc.illinois.edu/app/)
 	+ Short [overview of how to use "BookWorm"](https://htrc.atlassian.net/wiki/spaces/COM/pages/43295225/HathiTrust+Bookworm+step-by-step+tutorial) 
++ [**Databasic.io**](https://databasic.io/en/) is a toolkit for uploading your own plain text files or CSVs (or learning with a sample corpus) for simple text analysis and exploratory work with tabular data. While not designed
+    + [WordCounter](https://databasic.io/en/wordcounter/) (a tool for analyzing most frequent words and phrases)
+    + [WTFcsv](https://databasic.io/en/wtfcsv/) (a tool for working with tabular data)
+    + [SameDiff](https://databasic.io/en/samediff/) (a tool for comparing two text files)
+    + [ConnectTheDots](https://databasic.io/en/connectthedots/) (a tool for simple network analysis )
+
+### Off-the-shelf exhibition tools
+
++ [Scalar](https://scalar.me/anvc/scalar/) is a platform for publishing multi-media projects on the web. 
