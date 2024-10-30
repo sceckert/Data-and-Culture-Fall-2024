@@ -20,6 +20,21 @@ Please follow [this link](https://wesmoodle.wesleyan.edu/mod/page/view.php?id=13
 + A [curated list of datasets relevant to our course](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md)
 	+ For CSV, text, and image files from some of the datasets on the list above, see [this directory](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/)
 
+### Finding/collecting data
+
++ Where to find *full texts* (published before 1929)
+    + [HathiTrust](https://www.hathitrust.org/)
+    + [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/)
+    + [Project Gutenberg](https://www.gutenberg.org)
+    + Discipline specific sources in our [datasets](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md) page! 
++ Where to find CSVs and tabular data
+    + Check some of our [datasets](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_datasets/datasets.md) page. Many projects make it possible to download the data in a tabular format.
++ How to turn a set of texts INTO a spreadsheet, CSV, or pandas DataFrame: check out [this section of the "Explore the Birth of the Modern Detective Story" notebook](https://colab.research.google.com/drive/1w-kMR66pQtYdMoDsBK1gSQDIxcTCrzp8#scrollTo=Ojz-6_p5k9tN)
++ How to collect library catalog data
+    + For library data, download [Zotero](https://www.zotero.org/) and the Zotero browser extension. Navigate to a library catalogue, and click on the button in your browser to save to Zotero. (See the [guickstart guide](https://www.zotero.org/support/quick_start_guide)). Note that Zotero doesn't grab every field: it can be helpful to go back and adding data fields not grabbed into a note.
+    + For archival data, try using Tropy
+
+
 ## Lessons Overview
 
 
