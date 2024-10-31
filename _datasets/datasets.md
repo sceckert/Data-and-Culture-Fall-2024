@@ -106,7 +106,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A collection of [datasets of 19th-century books (divided by genre) digitized by the British Library](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en) and [additional book metadata](https://bl.iro.bl.uk/concern/datasets/c39ec180-bd70-4f33-bd84-d0a093ab7e01?locale=en)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - A [dataset of Los Angeles County public library infrastructure](https://data.lacounty.gov/datasets/lacounty::public-library-facilities/explore?showTable=true) statistics
-- A series of datasets collected by the Institute of Museum and Library Services [Public Libraries Survey on statewide library data](https://www.lrs.org/data-tools/public-libraries/other-states/), including a dataset of [historical data on Connecticut Public Libraries (1996-2023)](https://libguides.ctstatelibrary.org/dld/stats#s-lg-box-collapse-30946086) 
+- A series of datasets collected by the Institute of Museum and Library Services [Public Libraries Survey on statewide library data](https://www.lrs.org/data-tools/public-libraries/other-states/), including a dataset of [historical data on Connecticut Public Libraries (1996-2023)](https://libguides.ctstatelibrary.org/dld/stats#s-lg-box-collapse-30946086) circulation and funding data.
     - A dataset of [statistics on Middletown's Russell Library 1996-2023](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/Middletown-Library-Statistics.csv)
 
 
