@@ -50,7 +50,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	-  Scroll down for the full bibliography. See also the [2023 update](https://www.romtext.org.uk/reports/rt24_116/)
 - [Eighteenth-Century Novels Database (END): A collection of metadata for 2,000 novels published between 1660 and 1850](https://github.com/earlynovels/) created as a part of the [Early Novels Database (END)](https://earlynovels.github.io/) 
 	- Full [dataset](https://github.com/earlynovels/end-dataset)
-	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts
+	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts)
 - [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/)
 - [Digital Victorian Periodical Poetry](https://dvpp.uvic.ca/analysis.html)
 - A dataset of [poetry from Project Gutenberg](https://github.com/aparrish/gutenberg-poetry-corpus/tree/master?tab=readme-ov-file#a-gutenberg-poetry-corpus) 
@@ -67,6 +67,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A collection of 1,300 of cheap, ["yellowback" Victorian reprints](https://archive.org/details/yellowbacks) from Emory University Libraries. For more on the project and the larger collection, see [Yellowbacks at Emory](https://yellowbacks.digitalscholarship.emory.edu/)
 - A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 - Datasets of [book holdings in the British Library, broken down by genre](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en)
+- A database of 
 - An overview of [datasets and metadata on 210,305 volumes of fiction, written between 1700-2009](https://hcommons.org/deposits/item/hc:26955/)
 	- Link to the [datasets](https://github.com/tedunderwood/noveltmmeta?tab=readme-ov-file)
 - The [CONLIT Dataset of Contemporary Literature](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.88) - a collection of metadata on contemporary fiction. 
@@ -78,6 +79,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - ["Songs of Ourselves: The Circulations and Citations of Nineteenth-Century American Poetry on Twitter"](https://c19datacollective.com/data/songs-of-ourselves/)
 - A text corpus of [African-American Literature (1853-1923)](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923), created by Amardeep Singh. 
 - A collection of [Colonial South Asian literature, (1850-1923)](https://github.com/amardeepmsingh/Colonial-South-Asian-Literature), created by Amardeep Singh. 
+- A dataset of [early-20th-century book production and circulation statistics](https://github.com/agoldst/bookstats)
 - Publisher's Weekly: dataset of [works translated into English](https://www.publishersweekly.com/pw/translation/search/index.html)
 - Datasets related to the creative writers, teachers, and programs at [Iowa Writers’ Workshop MFA](https://view.data.post45.org/programerarecord)
 - A dataset of [Nordic crime fiction  in translation 2000–2020](https://data.post45.org/the-nordic-noir-in-translation-database-2000-2020/)
@@ -102,6 +104,11 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 - A database of [circulation records for the Muncie (Indiana) Public Library between 1892 and 1902](https://lib.bsu.edu/wmr/about.php)
 - A [dataset of marginalia from Civil War-era readers and books in Virginia libraries](https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/XVEQMH) collected by the ["Book Traces”](https://booktraces.lib.virginia.edu/) project
 - A collection of [datasets of 19th-century books (divided by genre) digitized by the British Library](https://bl.iro.bl.uk/concern/datasets/ff82a4ff-12a3-4abe-8108-2c9b1172ccc4?locale=en) and [additional book metadata](https://bl.iro.bl.uk/concern/datasets/c39ec180-bd70-4f33-bd84-d0a093ab7e01?locale=en)
+- A dataset of the [top 500 novels most widely held in libraries, according to OCLC](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
+- A [dataset of Los Angeles County public library infrastructure](https://data.lacounty.gov/datasets/lacounty::public-library-facilities/explore?showTable=true) statistics
+- A series of datasets collected by the Institute of Museum and Library Services [Public Libraries Survey on statewide library data](https://www.lrs.org/data-tools/public-libraries/other-states/), including a dataset of [historical data on Connecticut Public Libraries (1996-2023)](https://libguides.ctstatelibrary.org/dld/stats#s-lg-box-collapse-30946086) 
+    - A dataset of [statistics on Middletown's Russell Library 1996-2023](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_datasets/Middletown-Library-Statistics.csv)
+
 
 ### Theatre
 
@@ -121,7 +128,7 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 + [Network data about _Game of Thrones _Character relationships](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html#game-of-thrones-character-relationships)
 + A dataset of all the [conversations that occurred over 10 seasons of *Friends*](https://convokit.cornell.edu/documentation/friends.html)
 + [IMBDb datasets](https://developer.imdb.com/non-commercial-datasets/)
-+ A datasets of [1,000+ lines of dialogue of characters on *Stark Trek: The Next Generation* interacting with the Starship Enterprise Computer](https://www.speechinteraction.org/TNG/index.html)
++ A dataset of [1,000+ lines of dialogue of characters on *Stark Trek: The Next Generation* interacting with the Starship Enterprise Computer](https://www.speechinteraction.org/TNG/index.html)
 + [Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)
 + A dataset of [racial and ethnic representation in Hollywood films, 1970-2014](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY)
 + A [dataset of metadata on 4,700 Bollywood films from 1950-2019](https://github.com/pncnmnp/TIMDB), created by [Parth Parikh](https://pncnmnp.github.io/)
