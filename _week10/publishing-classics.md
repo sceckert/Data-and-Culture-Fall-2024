@@ -2,7 +2,7 @@
 
 Together, we've thought about what a "classic" is in the context of Melanie Walsh and Maria Antoniak's "The Goodreads 'Classics'". We can also think about what this word has meant for publishers of reprint editions of  18th-, 19th-, and early 20th-century texts.
 
-First, get back into your groups. THen, together with your group, explore and discuss the materials related to your reprint edition. What version of the "classics" emerges? What did you glean about your particular publishing series? How does it compare to what Walsh and Antoniak discuss in their article?
+First, get back into your groups. Then, together with your group, explore and discuss the materials related to your reprint edition. What version of the "classics" emerges? What did you glean about your particular publishing series? How does it compare to what Walsh and Antoniak discuss in their article?
 
 ### Group 1: Everyman Library (1906-)
 
