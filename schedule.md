@@ -179,6 +179,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Browse: [The Goodreads ‘Classics’ Project](https://melaniewalsh.github.io/Goodreads-Classics/), the [project's code and data](https://github.com/melaniewalsh/Goodreads-Classics/tree/master) and the code for Walsh and Antoniak's [Goodreads Scraper](https://github.com/maria-antoniak/goodreads-scraper)
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732393/mod_resource/content/0/So-All-Models-Are-Wrong.pdf)
 	- Optional reading: excerpt from Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://wesmoodle.wesleyan.edu/pluginfile.php/1732395/mod_resource/content/0/Bode-Why-You-Cant-Model-Away-Bias-excerpt.pdf), especially pages 113-120.
+	- [In-class: Publishing and the "classics"](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_week10/publishing-classics.md)
 
 
 
