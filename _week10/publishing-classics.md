@@ -8,14 +8,14 @@ First, get back into your groups. Then, together with your group, explore and di
 
 + Read the [short description of Everyman Library](http://www.everymanslibrarycollecting.com/site_index.html) and the [overview](https://knopfdoubleday.com/imprint/everymans-library/)
 + Then, check out the index to [the Everyman Library titles (1906-1982)](http://www.scribblemonger.com/elcollect/) and the [dictionary of the first 505 volumes (1906-1911)](https://archive.org/details/dictionarycatalo00cooprich/page/n9/mode/2up)
-+ Finally, browse some of the [bindings](http://www.everymanslibrarycollecting.com/flatback.html), [dust-jackets](http://www.everymanslibrarycollecting.com/jackets.html, and [advertisements](http://www.everymanslibrarycollecting.com/adverts.html) on the Collecting Everyman's Library project
++ Finally, browse some of the [bindings](http://www.everymanslibrarycollecting.com/flatback.html), [dust-jackets](http://www.everymanslibrarycollecting.com/jackets.html), and [advertisements](http://www.everymanslibrarycollecting.com/adverts.html) on the Collecting Everyman's Library project
 
 
 ### Group 2: Modern Library (1917-)
 
 + Read the short description of the [Modern Library](https://modernlib.com/FAQpages/generalFAQ/faqMlBasics.html) and glance at the  ["collecting the Modern library"](http://www.modernlib.com/General/gettingStarted.html) introduction.
 + Browse the index of titles in the [Modern Library Series](http://www.modernlib.com/MLFinder.pl?Select=2&TNum=*) from the [Modern Lib Database](http://www.modernlib.com/Identifiers/djAuthors.html) and/or the [descriptive bibliography of all the titles](https://rarebook.cdn.bibliopolis.com/images/upload/ml-text.pdf?auto=webp)
-+ Finally, browse some of the [dust-jackets], (http://www.modernlib.com/Identifiers/30sPictorials/pict301.html), [gift sets](http://www.modernlib.com/Rarities/giftSets.html),  an index of [dust-jacket by illustrator](http://www.modernlib.com/Identifiers/artists/djDesigners.html, or compilations of all [Modernn Library editions of a particular novel](http://www.modernlib.com/Identifiers/titleIndexCats.html#Anchor-Novels-6296)
++ Finally, browse some of the [dust-jackets](http://www.modernlib.com/Identifiers/30sPictorials/pict301.html), [gift sets](http://www.modernlib.com/Rarities/giftSets.html),  an index of [dust-jacket by illustrator](http://www.modernlib.com/Identifiers/artists/djDesigners.html, or compilations of all [Modern Library editions of a particular novel](http://www.modernlib.com/Identifiers/titleIndexCats.html#Anchor-Novels-6296)
 
 ### Group 3: Penguin Classics (1946-)
 
