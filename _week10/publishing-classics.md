@@ -15,7 +15,7 @@ First, get back into your groups. Then, together with your group, explore and di
 
 + Read the short description of the [Modern Library](https://modernlib.com/FAQpages/generalFAQ/faqMlBasics.html) and glance at the  ["collecting the Modern library"](http://www.modernlib.com/General/gettingStarted.html) introduction.
 + Browse the index of titles in the [Modern Library Series](http://www.modernlib.com/MLFinder.pl?Select=2&TNum=*) from the [Modern Lib Database](http://www.modernlib.com/Identifiers/djAuthors.html) and/or the [descriptive bibliography of all the titles](https://rarebook.cdn.bibliopolis.com/images/upload/ml-text.pdf?auto=webp)
-+ Finally, browse some of the [dust-jackets](http://www.modernlib.com/Identifiers/30sPictorials/pict301.html), [gift sets](http://www.modernlib.com/Rarities/giftSets.html),  an index of [dust-jacket by illustrator](http://www.modernlib.com/Identifiers/artists/djDesigners.html, or compilations of all [Modern Library editions of a particular novel](http://www.modernlib.com/Identifiers/titleIndexCats.html#Anchor-Novels-6296)
++ Finally, browse some of the [dust-jackets](http://www.modernlib.com/Identifiers/30sPictorials/pict301.html), [gift sets](http://www.modernlib.com/Rarities/giftSets.html),  an index of [dust-jacket by illustrator](http://www.modernlib.com/Identifiers/artists/djDesigners.html), or compilations of all [Modern Library editions of a particular novel](http://www.modernlib.com/Identifiers/titleIndexCats.html#Anchor-Novels-6296)
 
 ### Group 3: Penguin Classics (1946-)
 
