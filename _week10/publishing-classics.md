@@ -7,7 +7,7 @@ First, get back into your groups. Then, together with your group, explore and di
 ### Group 1: Everyman Library (1906-)
 
 + Read the [short description of Everyman Library](http://www.everymanslibrarycollecting.com/site_index.html) and the [overview](https://knopfdoubleday.com/imprint/everymans-library/)
-+ Then, check out the index to [the Everyman Library titles (1906-1982)](http://www.scribblemonger.com/elcollect/) and the [dictionary of the first 505 volumes (1906-1911)](https://archive.org/details/dictionarycatalo00cooprich/page/n9/mode/2up)
++ Then, check out the index to [the Everyman Library titles (1906-1982)](http://scribblemonger.com/elcollect/elCatalog.pl) and the [dictionary of the first 505 volumes (1906-1911)](https://archive.org/details/dictionarycatalo00cooprich/page/n9/mode/2up)
 + Finally, browse some of the [bindings](http://www.everymanslibrarycollecting.com/flatback.html), [dust-jackets](http://www.everymanslibrarycollecting.com/jackets.html), and [advertisements](http://www.everymanslibrarycollecting.com/adverts.html) on the Collecting Everyman's Library project
 
 
