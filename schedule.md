@@ -179,7 +179,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Browse: [The Goodreads ‘Classics’ Project](https://melaniewalsh.github.io/Goodreads-Classics/), the [project's code and data](https://github.com/melaniewalsh/Goodreads-Classics/tree/master) and the code for Walsh and Antoniak's [Goodreads Scraper](https://github.com/maria-antoniak/goodreads-scraper)
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732393/mod_resource/content/0/So-All-Models-Are-Wrong.pdf)
 	- Optional reading: excerpt from Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://wesmoodle.wesleyan.edu/pluginfile.php/1732395/mod_resource/content/0/Bode-Why-You-Cant-Model-Away-Bias-excerpt.pdf), especially pages 113-120.
-	- [In-class: Publishing and the "classics"](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_week10/publishing-classics.md)
+
 
 
 
@@ -187,6 +187,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Read Ted Underwood, [“Topic modeling made just simple enough”](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) (2012)
 - Due: nothing! Work on your final project proposal!
 - [Read through this short set of topic modeling set-up instructions](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/topic-modeling-set-up-instructions.md)
+- [In-class: Publishing and the "classics"](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_week10/publishing-classics.md)
 - *In-class practicum*: [Topic modeling, or, how to sift through many texts.]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/introduction-to-topic-modeling.ipynb). [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)-->
 
 ## Week 11: Reading Data Visualization
