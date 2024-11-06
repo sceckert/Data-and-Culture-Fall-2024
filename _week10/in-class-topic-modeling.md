@@ -1,5 +1,9 @@
 ## In-class practicum: topic modeling collections of texts
 
+As part of preparation for today, you read through a tutorial on how to use Python (and Pandas) to topic model in a Jupyter notebook.
+
+But there are also browser-based methods for using topic modeling to model a collection of texts. We're going to try two different methods. 
+
 ## Part 1: Topic modeling State of the Union Addresses (1914-2009)
 
 David Mimno, a professor of information sciences at Cornell and one of the authors of the first topic modeling algorithm, made a browser-based tool for topic modeling small corpora of texts. Read a little about [how the tool works here](https://mimno.infosci.cornell.edu/jsLDA/index.html). It has a default corpus of US State of the Union speeches (1914-2009), broken up by paragraph.
