@@ -187,8 +187,8 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Read Ted Underwood, [“Topic modeling made just simple enough”](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) (2012)
 - Due: nothing! Work on your final project proposal!
 - [Read through this short tutorial on topic modeling](https://colab.research.google.com/drive/1i5W4X8qqXrRcXD55cYAoj_YDQaGxiBeY?usp=sharing)
-- [In-class: Publishing and the "classics"](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_week10/publishing-classics.md)
-- *In-class practicum*: [Topic modeling, or, how to sift through many texts.]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_week9/introduction-to-topic-modeling.ipynb). [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Culture-Fall-2024/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)-->
+- [In-class praticum 1: Publishing and the "classics"](https://github.com/sceckert/Data-and-Culture-Fall-2024/tree/main/_week10/publishing-classics.md)
+- *In-class practicum 2*: [Topic modeling, or, how to sift through many texts](in-class-topic-modeling.md)
 
 ## Week 11: Reading Data Visualization
 
