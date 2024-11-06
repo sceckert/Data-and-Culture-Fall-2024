@@ -24,10 +24,11 @@ With a partner:
 You can also upload your own corpus and stoplist (that's a plain text file with a list of very frequently used words that you want the model to ignore). (Read Mimno's [description in "Upload your own documents"](https://mimno.infosci.cornell.edu/jsLDA/) about how documents need to be formatted in order to upload)
 
 1. Navigate to week 10 of our course files:  
-2. Download the `detective-fiction.tsv` and `stopwords.txt` files by right-clicking on each file and "Saving link as.." to somewhere on your desktop. The first is a tab-separated values file with the Story ID, date, and full text of each of the detective stories in the [Birth of the Modern Detective Story Dataset](https://github.com/ahmmnd/BMDS/tree/main?tab=readme-ov-file#the-birth-of-the-modern-detective-story-bmds-dataset). The second is a standard list of stopwords. 
-3. Navigate back to the topic model web-browser: https://mimno.infosci.cornell.edu/jsLDA/jslda.html  
-4. Try steps 2-8 from part 1 on this corpus. What do you notice?
-5. Right now in our corpus, each "document" is the full text of a story in the BMDS corpus. How our model might be different if we broke up each story by paragraph?
-6. What are the possible uses of LDA? What are its limits? When could you see yourself using it? 
+2. Download the `detective-fiction.tsv` or `doyle-fiction.tsv`and `stopwords.txt` filesby right-clicking on each file and "Saving link as.." to somewhere on your desktop. 
+    - Note: `detective-fiction.tsv` is a tab-separated values file with the Story ID, date, and full text of each of the detective stories in the [Birth of the Modern Detective Story Dataset](https://github.com/ahmmnd/BMDS/tree/main?tab=readme-ov-file#the-birth-of-the-modern-detective-story-bmds-dataset); `doyle-fiction.tsv` is a subset of that corpus for just Arthur Conan Doyle Fiction. The file `stopwords.txt` is a standard list of stopwords. 
+4. Navigate back to the topic model web-browser: https://mimno.infosci.cornell.edu/jsLDA/jslda.html  and in the "Use a different colleciton" box upload either `detective-fiction.tsv` or `doyle-fiction.tsv` for "Documents" and "stopwords.txt" for "Stoplist"
+5. Then, try steps 2-8 from part 1 on this corpus. What do you notice?
+6. Right now in our corpus, each "document" is the full text of a story in the BMDS corpus. How our model might be different if we broke up each story by paragraph?
+7. What are the possible uses of LDA? What are its limits? When could you see yourself using it? 
 
 
