@@ -12,7 +12,7 @@ With a partner:
 
 1. Navigate to the topic model web-browser: https://mimno.infosci.cornell.edu/jsLDA/jslda.html
 2. Click "Run 50 iterations" several times, (until you've run around 200 iterations).
-3. What do you notice?
+3. What do you notice? Try running another 50 iterations. How did it affect the composition of topics?
 6. Try clicking on "topic" (listed to the left), the center column will populate with paragraphs from U.S. State of the Union Speeches.
 7. Try running more iterations. 
 5. Try changing the number of topics ––in the upper right-hand corner and then running more iterations).
