@@ -1,8 +1,10 @@
 ## Publishing and "Classics"
 
-Together, we've thought about what a "classic" is in the context of Melanie Walsh and Maria Antoniak's "The Goodreads 'Classics.'" We can also think about what this word has meant for publishers of reprint editions of  18th-, 19th-, and early 20th-century texts. Below are six examples of publishers' "series" or libraries––that is, labels for reprints of earlier texts.
+In Melanie Walsh and Maria Antoniak's "The Goodreads 'Classics,'" we thought about "classic" in the context of Goodreads readers, schools, publishers, and platforms (including Goodreads, Amazon, and audiobook publishers).  One definition that they offer, via literary critic Mark Van Doren: a classic is simply a "book that remains in print" (245).
 
-First, get back into your groups. Then, together with your group, explore and discuss the materials related to your reprint edition. What version of the "classics" emerges? What did you glean about your particular publishing series? How does it compare to what Walsh and Antoniak discuss in their article?
+In this short exercise, we're going to think about how "classics" have been defined by publishers of reprint editions of 18th-, 19th-, and early 20th-century texts.
+
+First get back into your groups. Each group has been assigned one of 6 examples of publishers' "series" or libraries––that is, labels for reprints of earlier texts.Then, together with your group, explore and discuss the materials related to your reprint edition. What version of the "classics" emerges? How does the publisher talk about the series? What did you glean about your particular publishing series? How does it compare to what Walsh and Antoniak discuss in their article?
 
 ### Group 1: Everyman Library (1906-)
 
@@ -11,8 +13,8 @@ First, get back into your groups. Then, together with your group, explore and di
 + Finally, browse some of the [bindings](http://www.everymanslibrarycollecting.com/flatback.html), [dust-jackets](http://www.everymanslibrarycollecting.com/jackets.html), and [advertisements](http://www.everymanslibrarycollecting.com/adverts.html) on the Collecting Everyman's Library project
 
 + Questions:
-    + What version of the "classics" emerges? 
-    + What did you glean about your particular publishing series? 
+    + What did you glean about your particular publishing series? How does the publisher talk about the series? 
+    + What do you notice about the material format of the books? Or the titles included?
     + What else did you notice about the Everyman Library series
     + How does it compare to what Walsh and Antoniak discuss in their article?
 
@@ -23,9 +25,9 @@ First, get back into your groups. Then, together with your group, explore and di
 + Finally, browse some of the [dust-jackets](http://www.modernlib.com/Identifiers/30sPictorials/pict301.html), [gift sets](http://www.modernlib.com/Rarities/giftSets.html),  an index of [dust-jacket by illustrator](http://www.modernlib.com/Identifiers/artists/djDesigners.html), or compilations of all [Modern Library editions of a particular novel](http://www.modernlib.com/Identifiers/titleIndexCats.html#Anchor-Novels-6296)
 
 + Questions:
-    + What version of the "classics" emerges? 
-    + What did you glean about your particular publishing series? 
-    + What else did you notice about the Modern Library series
+     + What did you glean about your particular publishing series? How does the publisher talk about the series? 
+    + What do you notice about the material format of the books? Or the titles included?
+    + What else did you notice about the Modern Library series?
     + How does it compare to what Walsh and Antoniak discuss in their article?
 
 ### Group 3: Penguin Classics (1946-)
@@ -36,8 +38,8 @@ First, get back into your groups. Then, together with your group, explore and di
 + Finally, browse the titles from the database of Victorian fiction ATCL [that have been printed by Penguin Classics (as of 2016).](https://www.victorianresearch.org/atcl/show_genre.php?gid=77)
 
 + Questions:
-    + What version of the "classics" emerges? 
-    + What did you glean about your particular publishing series? 
+    + What did you glean about your particular publishing series? How does the publisher talk about the series? 
+    + What do you notice about the material format of the books? Or the titles included?
     + What else did stands out to you about Penguin Classics?
     + How does it compare to what Walsh and Antoniak discuss in their article?
 
@@ -49,8 +51,8 @@ First, get back into your groups. Then, together with your group, explore and di
 
 
 + Questions:
-    + What version of the "classics" emerges? 
-    + What did you glean about your particular publishing series? 
+    + What did you glean about your particular publishing series? How does the publisher talk about the series? 
+    + What do you notice about the material format of the books? Or the titles included?
     + What else did you notice about the Oxford World's Classics series?
     + How does it compare to what Walsh and Antoniak discuss in their article?
 
@@ -60,7 +62,6 @@ First, get back into your groups. Then, together with your group, explore and di
 + Browse the titles from the database of Victorian fiction ATCL [that have been printed by Broadview (as of 2017).](https://www.victorianresearch.org/atcl/show_genre.php?gid=78)
 
 + Questions:
-    + What version of the "classics" emerges? 
     + What did you glean about your particular publishing series? 
     + What else did you notice about the Broadview Press Editions series?
     + How does it compare to what Walsh and Antoniak discuss in their article?
@@ -72,7 +73,6 @@ First, get back into your groups. Then, together with your group, explore and di
 + Finally, check out the publisher's ranking: ["Forty Years of the LOA Series: Top Volumes 1982–2022"](https://www.loa.org/news-and-views/2045-forty-years-of-the-loa-series-top-volumes-1982-2022/) to explore releases by year, and by number sold.
 
 + Questions:
-    + What version of the "classics" emerges? 
     + What did you glean about your particular publishing series? 
     + What else did you notice about the Library of America series?
     + How does it compare to what Walsh and Antoniak discuss in their article?
