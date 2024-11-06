@@ -1,8 +1,8 @@
 ## In-class practicum: topic modeling collections of texts
 
-As part of preparation for today, you read through a tutorial on how to use Python (and Pandas) to topic model in a Jupyter notebook.
+As part of preparation for today, you read through a [tutorial on how to use Python (and Pandas) to topic model in a Jupyter notebook.](https://colab.research.google.com/drive/1i5W4X8qqXrRcXD55cYAoj_YDQaGxiBeY?usp=sharing) 
 
-But there are also browser-based methods for using topic modeling to model a collection of texts. We're going to try two different methods. 
+But there are also browser-based methods for using topic modeling to model a collection of texts. We're going to try two different methods using an off-the-shelf tool that allows us to run topic models on different collections of texts.  
 
 ## Part 1: Topic modeling State of the Union Addresses (1914-2009)
 
