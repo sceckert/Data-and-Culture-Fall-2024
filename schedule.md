@@ -239,15 +239,15 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Wed 11/27 - NO CLASS - THANKSGIVING BREAK 
 
-- Due: Presentation of final projects
+- Due: Presentation of [final projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)
 
 ## Week 14: Retrospectives and Futures
 
 
 #### Mon 12/2  Presentations
 - Read: Miriam Posner, “What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732559/mod_resource/content/0/Posner.pdf)
-	- [Guidelines for project presentations]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-presentations.md)-->
-	- [Guidelines for final project and final papers]<!--(https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)-->
+	- [Guidelines for project presentations](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-presentations.md)-->
+	- [Guidelines for final project and final papers](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)
 <!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk12-tues.md) -->
 
 #### Wed 12/4  Wrap up & presentations
