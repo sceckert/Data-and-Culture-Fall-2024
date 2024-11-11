@@ -195,10 +195,10 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Mon 11/11 - What is a humanities approach to graphs, maps, and charts?
 
 - Read: Johanna Drucker, “Humanities Approaches to Graphical Display,” (2011) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732397/mod_resource/content/0/Drucker-Humanities-Approaches-to-Graphical-Display.pdf)
-
+- Read: Rebecca Sutton Koeser, Gissoo Doroudian, Nick Budak, Xinyi Li, ["Data Beyond Vision"](https://startwords.cdh.princeton.edu/issues/1/data-beyond-vision/) (2020)
 - Explore: 
+	- Giorgia Lupi and Stefanie Posavec, [*Dear Data*](http://www.dear-data.com/theproject)
 	- Facsimiles of [W.E.B. Dubois’s data visualizations created for the 1900 Paris Exposition in the Library of Congress](https://www.loc.gov/collections/african-american-photographs-1900-paris-exposition/?fa=partof:prints+and+photographs+division%7Csubject:exhibitions+%26+displays) 
-	- Giorgia Lupi and Stefanie Posavec, [*Dear Data*](https://f18rwda.ryancordell.org/schedule.html)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk10-tues.html) -->
 
 #### Thu 11/17 - Visualization as argument
