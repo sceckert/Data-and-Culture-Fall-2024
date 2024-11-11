@@ -199,6 +199,9 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 - Explore: 
 	- Giorgia Lupi and Stefanie Posavec, [*Dear Data*](http://www.dear-data.com/theproject)
 	- Facsimiles of [W.E.B. Dubois’s data visualizations created for the 1900 Paris Exposition in the Library of Congress](https://www.loc.gov/collections/african-american-photographs-1900-paris-exposition/?fa=partof:prints+and+photographs+division%7Csubject:exhibitions+%26+displays) 
+	- Ben Fry's ["On the Origin of Species: The Preservation of Favoured Traces"](https://benfry.com/traces/)
+	- Stephanie Posaevec's ["Writing without Words"](https://www.stefanieposavec.com/writing-without-words) and ["(En)tangled Word Bank"](https://www.stefanieposavec.com/entangled-word-bank)
+	- Rebecca Sutton Koeser, ["Sonifying Derrida's references"](https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/) (2019)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk10-tues.html) -->
 
 #### Thu 11/17 - Visualization as argument
