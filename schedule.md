@@ -239,7 +239,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Wed 11/27 - NO CLASS - THANKSGIVING BREAK 
 
-- Due: Presentation of [final projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)
+
 
 ## Week 14: Retrospectives and Futures
 
@@ -252,6 +252,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Wed 12/4  Wrap up & presentations
 
+- Due: Presentation of [final projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)
 #### Wednesday  12/11  - [Final Project Reflection Paper]  DUE @ 5PM
 
 <!-- - [Guidelines for final papers](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md) -->
