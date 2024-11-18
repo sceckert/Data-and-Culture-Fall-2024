@@ -8,10 +8,11 @@ Questions your close reading should address:
     - Describe, in detail, like an art historian reading a painting, how this visualization appears: 
         - what forms does it use, what is it supposed to show?
         - What choices have they made – in color, graph type, data represented, scale, legend, labeling...
+        - What are some possible implications of these choices (for viewer, for audience, etc)?
         - What is it purporting to show? How?
 - How was the graph made? 
 	- What data did were used? Where did they come from
-	- Do we know what tools were used to make it?(Or, if this information isn't available, what)
+	- Do we know what tools were used to make it?(Or, if this information isn't available, what might we make of that?)
 - How is it used in the context of the writer's argument?
 - What do you notice about the choices made in visualization?
 - Based on what you've noticed in your reading, what's an argument that you might make *about* this graph? 
