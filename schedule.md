@@ -253,6 +253,6 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Wed 12/4  Wrap up & presentations
 
 - Due: Presentation of [final projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)
-#### Wednesday  12/11  - [Final Project Reflection Paper]  DUE @ 5PM
+#### Wednesday  12/11  - [Final Project Reflection Paper](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)  DUE @ 5PM
 
 <!-- - [Guidelines for final papers](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md) -->
