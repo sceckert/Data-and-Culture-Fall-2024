@@ -216,11 +216,11 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 
 #### Mon 11/18 - DH and global information infrastructures
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732399/mod_resource/content/0/Gil-and%20Ortega-Global-Outlooks-CH2-PAGES-22-34.pdf)
-- Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
+- Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/) [PDF version](https://wesmoodle.wesleyan.edu/pluginfile.php/1787507/mod_resource/content/0/Anatomy%20of%20an%20AI%20System.pdf)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk11-tues.md) -->
  
 #### Wed 11/20 - Networks and Network Analysis
-- Read: Ruth Ahnert, “Culture is Data,” from The Network Turn (2020)
+- Read: Ruth Ahnert, ["Intro" + “Culture is Data,”](https://wesmoodle.wesleyan.edu/pluginfile.php/1787519/mod_resource/content/0/Anhert-Culture-is-Data.pdf) from *The Network Turn* (2020)
 - Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/close-reading-data-visualization-assignment.md) 
 - *In-class practicum*: Keep working on projects! Review your proposal timeline
 	<!-- - [Guidelines for project presentations](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-presentations.md) -->
