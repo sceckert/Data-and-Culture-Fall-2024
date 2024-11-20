@@ -220,7 +220,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk11-tues.md) -->
  
 #### Wed 11/20 - Networks and Network Analysis
-- Read: Ruth Ahnert, ["Intro" + “Culture is Data,”](https://wesmoodle.wesleyan.edu/pluginfile.php/1787519/mod_resource/content/0/Anhert-Culture-is-Data.pdf) from *The Network Turn* (2020)
+- Read: Ruth Ahnert et al., ["Intro" + “Culture is Data,”](https://wesmoodle.wesleyan.edu/pluginfile.php/1787519/mod_resource/content/0/Anhert-Culture-is-Data.pdf) from *The Network Turn* (2020)
 - Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/close-reading-data-visualization-assignment.md) 
 - *In-class practicum*: Keep working on projects! Review your proposal timeline
 	<!-- - [Guidelines for project presentations](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-presentations.md) -->
@@ -253,6 +253,7 @@ Counts” (2018) [Moodle PDF](https://wesmoodle.wesleyan.edu/pluginfile.php/1732
 #### Wed 12/4  Wrap up & presentations
 
 - Due: Presentation of [final projects](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)
+
 #### Wednesday  12/11  - [Final Project Reflection Paper](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md)  DUE @ 5PM
 
 <!-- - [Guidelines for final papers](https://github.com/sceckert/Data-and-Culture-Fall-2024/blob/main/_assignments/final-project-assignment-prompt.md) -->
