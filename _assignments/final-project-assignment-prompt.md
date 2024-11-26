@@ -13,7 +13,7 @@ This is a 2-3 page outline of your research timeline, research questions, the da
 
 For your final project reflection paper, you'll turn in your **project files** (eg. dataset, Jupyternotebook, link to a GitHub repository, etc) a **paper** (min. 4-5 pages, maximum 15 pages) to accompany your project.
 
-For the project files, you should plan to turn in a **Jupyter notebook**(or link to a GitHub repo with a Jupyter notebook) along with any relevant data files.  If you feel that a Jupyter notebook is not the best way to represent or carry out your project you should talk with your instructor about alternatives. 
+For the project files, you should plan to turn in relevant data visualizations (or physicalization), other proejct doumentatation (like Jupyter notebook (or link to a GitHub repo with a Jupyter notebook), and any other relevant project documentation.   
 
 In this **paper**, you might discuss:
 -  the argument you've developed about your findings
